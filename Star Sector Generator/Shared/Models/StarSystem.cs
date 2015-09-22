@@ -33,7 +33,7 @@ namespace Shared.Models
 
         public override string ToString()
         {
-            return string.Format("Hex: {0} \n Total Resources: {1}", Coordinate, TotalResources);
+            return string.Format("Hex: {0} \nTotal Resources: {1}", Coordinate, TotalResources);
         }
 
         public static StarSystem Generate(Dice die)
