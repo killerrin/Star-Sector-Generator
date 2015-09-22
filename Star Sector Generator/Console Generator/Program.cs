@@ -41,21 +41,25 @@ namespace Console_Generator
                     break;
             }
 
-            Console.Clear();
-
-            // Generate Sector
-            StarSectorGenerator generator = new StarSectorGenerator(new HexCoordinate(width, height));
-            List<List<StarSystem>> sector = generator.Generate();
-
-            foreach (var sectorRow in sector)
+            while (true)
             {
-                foreach (var system in sectorRow)
-                {
-                    Console.WriteLine(system);
+                Console.Clear();
 
+                // Generate Sector
+                StarSectorGenerator generator = new StarSectorGenerator(new HexCoordinate(width, height));
+                List<List<StarSystem>> sector = generator.Generate();
+
+                foreach (var sectorRow in sector)
+                {
+                    foreach (var system in sectorRow)
+                    {
+                        Writer.WriteLine(system.ToString());
+                    }
                 }
+
+                string read = Console.ReadLine();
+                if (read.ToLower() == "exit") break;
             }
-            Console.ReadLine();
         }
     }
 }

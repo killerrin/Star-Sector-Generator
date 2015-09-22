@@ -15,7 +15,7 @@ namespace Shared.DnDTools
             return !regex.IsMatch(text);
         }
 
-        public static string AddSpacesToSentence(string text, bool preserveAcronyms)
+        public static string AddSpacesToSentence(string text, bool preserveAcronyms = true)
         {
             if (string.IsNullOrWhiteSpace(text))
                 return string.Empty;

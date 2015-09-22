@@ -8,9 +8,9 @@ namespace Shared.Models.Enums
 {
     public enum RadiationLevel
     {
-        Low,
-        Normal,
-        High,
-        Extreme
+        LowRadiation,
+        NormalRadiation,
+        HighRadiation,
+        ExtremeRadiation
     }
 }

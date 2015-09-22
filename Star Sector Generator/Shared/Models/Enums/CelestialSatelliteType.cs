@@ -10,6 +10,7 @@ namespace Shared.Models.Enums
     {
         Moon,
         Rings,
+        GasCloud,
         ArtificialBody,
     }
 }

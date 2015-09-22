@@ -20,6 +20,26 @@ namespace Shared.Models
             Classifications = new ObservableCollection<AnimalClassification>();
             Traits = new ObservableCollection<CivilizationTraits>();
         }
+        public override string ToString()
+        {
+            string str = string.Format("TL{0} {1}\t",
+                (int)TechLevel,
+                StringHelpers.AddSpacesToSentence(TechLevel.ToString()));
+
+            foreach (var trait in Traits)
+            {
+                str += string.Format("{0} ",
+                    StringHelpers.AddSpacesToSentence(trait.ToString()));
+            }
+            str += "\t";//\n\t\t";
+            foreach (var classification in Classifications)
+            {
+                str += string.Format("{0} ",
+                    StringHelpers.AddSpacesToSentence(classification.ToString()));
+            }
+
+            return str;
+        }
 
         public static SentientSpecies Generate(Dice die)
         {

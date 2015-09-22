@@ -8,7 +8,7 @@ namespace Shared.Models.Enums
 {
     public enum LifeStage
     {
-        None,
+        NoLife,
 
         OrganicCompounds,
         SingleCellular,

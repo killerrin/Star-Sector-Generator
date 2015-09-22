@@ -8,7 +8,7 @@ namespace Shared.Models.Enums
 {
     public enum CivilizationTechLevel
     {
-        None,
+        NoTechLevel,
 
         Cavemen,
         StoneAge,

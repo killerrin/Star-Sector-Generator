@@ -7,10 +7,10 @@ namespace Shared.Models
 {
     public class Star : BindableBase
     {
-        public ObservableCollection<CelestialObject> CelestialBodies { get; set; }
+        public ObservableCollection<CelestialBody> CelestialBodies { get; set; }
         public StarClassification Classification { get; set; }
-        public RadiationLevel Radiation { get; set; }
         public StarAge Age { get; set; }
+        public RadiationLevel Radiation { get; set; }
 
         public int TotalResources
         {
@@ -25,7 +25,23 @@ namespace Shared.Models
 
         public Star()
         {
-            CelestialBodies = new ObservableCollection<CelestialObject>();
+            CelestialBodies = new ObservableCollection<CelestialBody>();
+        }
+
+        public override string ToString()
+        {
+            string str = "\n";
+            str += string.Format("{0} \t{1} \t{2} \n", 
+                        StringHelpers.AddSpacesToSentence(Classification.ToString()),
+                        StringHelpers.AddSpacesToSentence(Age.ToString()),
+                        StringHelpers.AddSpacesToSentence(Radiation.ToString()));
+
+            foreach (var body in CelestialBodies)
+            {
+                str += string.Format("{0}\n", body);
+            }
+
+            return str;
         }
 
         public static Star Generate(Dice die)
@@ -38,7 +54,7 @@ namespace Shared.Models
             int numberOfBodies = GenerateNumberOfCelestialBodies(die);
             for (int i = 0; i < numberOfBodies; i++)
             {
-                star.CelestialBodies.Add(CelestialObject.Generate(die));
+                star.CelestialBodies.Add(CelestialBody.Generate(die));
             }
             return star;
         }
@@ -50,12 +66,9 @@ namespace Shared.Models
 
             if (percentage <= 10) return 0;
             else if (percentage <= 40) return die.Roll(1, 4);
-            else if (percentage <= 50) return die.Roll(1, 5);
-            else if (percentage <= 60) return die.Roll(1, 6);
-            else if (percentage <= 70) return die.Roll(1, 7);
-            else if (percentage <= 80) return die.Roll(1, 8);
-            else if (percentage <= 90) return die.Roll(2, 8);
-            return die.Roll(2, 10);
+            else if (percentage <= 70) return die.Roll(1, 5);
+            else if (percentage <= 95) return die.Roll(1, 6);
+            return die.Roll(2, 6);
         }
 
         public static StarClassification GenerateStarClassification(Dice die)
@@ -78,12 +91,12 @@ namespace Shared.Models
         {
             int percentage = die.Roll(1, 100);
 
-            if (percentage <= 25)       return RadiationLevel.Low;
-            else if (percentage <= 50)  return RadiationLevel.Normal;
-            else if (percentage <= 75)  return RadiationLevel.High;
+            if (percentage <= 25)       return RadiationLevel.LowRadiation;
+            else if (percentage <= 50)  return RadiationLevel.NormalRadiation;
+            else if (percentage <= 75)  return RadiationLevel.HighRadiation;
             
             //else if (percentage <= 100)  
-            return RadiationLevel.Extreme;
+            return RadiationLevel.ExtremeRadiation;
         }
         public static StarAge GenerateStarAge(Dice die)
         {

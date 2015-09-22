@@ -33,7 +33,12 @@ namespace Shared.Models
 
         public override string ToString()
         {
-            return string.Format("Hex: {0} \nTotal Resources: {1}", Coordinate, TotalResources);
+            string str = string.Format("Hex: {0} \t Total Resources: {1}", Coordinate, TotalResources);
+            foreach (var star in Stars)
+            {
+                str += string.Format("{0}", star);
+            }
+            return str + "\n";
         }
 
         public static StarSystem Generate(Dice die)
@@ -55,9 +60,8 @@ namespace Shared.Models
             int percentage = die.Roll(1, 100);
 
             if (percentage <= 15) return 0;
-            else if (percentage <= 80) return 1;
-
-            return die.Roll(1, 5);
+            else if (percentage <= 90) return 1;
+            return die.Roll(1, 3);
         }
         #endregion
     }
