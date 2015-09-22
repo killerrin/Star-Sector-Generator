@@ -34,5 +34,19 @@ namespace Shared
             }
             return sector;
         }
+
+        public static bool Save(UnitSettings settings)
+        {
+            Debug.WriteLine("Saving UnitSettings");
+            try
+            {
+                var writer = new System.Xml.Serialization.XmlSerializer(typeof(UnitSettings));
+                var wfile = new StreamWriter("UnitStatistics.xml");
+                writer.Serialize(wfile, settings);
+                wfile.Close();
+            }
+            catch (Exception) { return false; }
+            return true;
+        }
     }
 }

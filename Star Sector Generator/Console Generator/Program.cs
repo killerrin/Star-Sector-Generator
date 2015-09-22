@@ -41,7 +41,8 @@ namespace Console_Generator
                     break;
             }
 
-            while (true)
+            bool loop = true;
+            while (loop)
             {
                 Console.Clear();
 
@@ -58,7 +59,11 @@ namespace Console_Generator
                 }
 
                 string read = Console.ReadLine();
-                if (read.ToLower() == "exit") break;
+                switch (read.ToLower())
+                {
+                    case "save": break;
+                    case "exit": loop = false; break;
+                }
             }
         }
     }
