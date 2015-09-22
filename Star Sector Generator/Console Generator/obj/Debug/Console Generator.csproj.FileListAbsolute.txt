@@ -1,0 +1,6 @@
+C:\Users\andre\Documents\GitHub\Star-Sector-Generator\Star Sector Generator\Console Generator\bin\Debug\Console Generator.exe.config
+C:\Users\andre\Documents\GitHub\Star-Sector-Generator\Star Sector Generator\Console Generator\obj\Debug\Console Generator.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\Star-Sector-Generator\Star Sector Generator\Console Generator\bin\Debug\Console Generator.exe
+C:\Users\andre\Documents\GitHub\Star-Sector-Generator\Star Sector Generator\Console Generator\bin\Debug\Console Generator.pdb
+C:\Users\andre\Documents\GitHub\Star-Sector-Generator\Star Sector Generator\Console Generator\obj\Debug\Console Generator.exe
+C:\Users\andre\Documents\GitHub\Star-Sector-Generator\Star Sector Generator\Console Generator\obj\Debug\Console Generator.pdb

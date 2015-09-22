@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>5459fd42-c7b0-4300-9dc3-626a2b83b37d</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Shared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)DnDTools\Dice.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DnDTools\HexCoordinate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DnDTools\StringHelpers.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\BindableBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\CelestialSatellite.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\CelestialObject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Enums\AnimalClassification.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Enums\CelestialSatelliteType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Enums\CelestialBodyType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Enums\CivilizationTechLevel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Enums\CivilizationTraits.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Enums\LifeStage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Enums\RadiationLevel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Enums\StarAge.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Enums\StarClassification.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Enums\TerraformationTier.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\SentientSpecies.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Star.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\StarSystem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StarSectorGenerator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Writer.cs" />
+  </ItemGroup>
+</Project>
