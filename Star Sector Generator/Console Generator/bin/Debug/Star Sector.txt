@@ -1,0 +1,2729 @@
+Hex: 0, 0 	 Total Resources: 18
+Red Dwarf 	Midlife 	High Radiation 
+7RP	Gas Planet	T3	Complex Life
+	4RP	Rings	T4	Complex Life
+
+6RP	Asteroid Belt	T4	Multi Cellular
+	1RP	Rings	T3	Single Cellular
+
+
+
+Hex: 0, 1 	 Total Resources: 66
+Red Dwarf 	Midlife 	High Radiation 
+6RP	Terrestrial Planet	T4	Complex Life
+	6RP	Rings	T3	Single Cellular
+
+30RP	Sub Star	Uninhabitable	No Life
+	2RP	Rings	T3	Simple Life
+
+22RP	Comet	Uninhabitable	No Life
+
+
+Hex: 0, 2 	 Total Resources: 0
+White Dwarf 	Newborn 	Low Radiation 
+
+
+Hex: 0, 3 	 Total Resources: 69
+Red Giant 	End Of Life 	High Radiation 
+11RP	Artificial Planet	T2	Organic Compounds
+	7RP	Rings	T4	Complex Life
+
+9RP	Terrestrial Planet	T3	No Life
+	1RP	Rings	T3	Multi Cellular
+
+23RP	Gas Planet	Uninhabitable	No Life
+	2RP	Rings	T3	Simple Life
+
+8RP	Gas Planet	T4	Organic Compounds
+	8RP	Artificial Body	T4	Sentient Life
+		TL5 Industrial Revolution	Philosophical Peace Keepers Capitalist 	Mammal 
+
+
+
+
+Hex: 0, 4 	 Total Resources: 83
+Red Giant 	Midlife 	Low Radiation 
+10RP	Terrestrial Planet	T4	Sentient Life
+	TL8 Digital Age	Philosophical Peace Keepers Corporate 	Avian 
+
+	21RP	Moon	Uninhabitable	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	3RP	Gas Cloud	T1	No Life
+
+21RP	Sub Star	Uninhabitable	No Life
+	5RP	Moon	T2	Multi Cellular
+	6RP	Rings	T5	Simple Life
+
+17RP	Comet	Uninhabitable	No Life
+
+
+Hex: 0, 5 	 Total Resources: 0
+
+Hex: 0, 6 	 Total Resources: 40
+Blackhole 	Midlife 	High Radiation 
+8RP	Artificial Planet	T5	Single Cellular
+	11RP	Rings	T5	Complex Life
+	4RP	Rings	T3	Organic Compounds
+	8RP	Gas Cloud	T1	No Life
+	9RP	Moon	T2	No Life
+
+
+
+Hex: 0, 7 	 Total Resources: 0
+White Giant 	Midlife 	Extreme Radiation 
+
+
+Hex: 0, 8 	 Total Resources: 62
+White Giant 	Newborn 	High Radiation 
+22RP	Sub Star	Uninhabitable	No Life
+	4RP	Rings	T1	Multi Cellular
+
+17RP	Comet	Uninhabitable	No Life
+10RP	Terrestrial Planet	T5	No Life
+	9RP	Gas Cloud	T4	No Life
+
+
+
+Hex: 0, 9 	 Total Resources: 0
+Red Giant 	Midlife 	High Radiation 
+
+
+Hex: 0, 10 	 Total Resources: 0
+
+Hex: 0, 11 	 Total Resources: 107
+White Normal 	Midlife 	Normal Radiation 
+20RP	Comet	Uninhabitable	No Life
+23RP	Sub Star	Uninhabitable	No Life
+	10RP	Gas Cloud	T4	No Life
+
+26RP	Comet	Uninhabitable	No Life
+8RP	Terrestrial Planet	T5	Single Cellular
+	5RP	Artificial Body	T3	Complex Life
+
+2RP	Terrestrial Planet	T4	Complex Life
+	3RP	Moon	T2	Complex Life
+	10RP	Moon	T4	Complex Life
+
+
+
+Hex: 0, 12 	 Total Resources: 0
+Red Giant 	Newborn 	Extreme Radiation 
+
+
+Hex: 0, 13 	 Total Resources: 0
+Red Giant 	End Of Life 	High Radiation 
+
+
+Hex: 0, 14 	 Total Resources: 44
+Blackhole 	Midlife 	Extreme Radiation 
+12RP	Terrestrial Planet	T2	Multi Cellular
+	13RP	Rings	T5	Complex Life
+
+14RP	Sub Star	Uninhabitable	No Life
+	5RP	Moon	T2	No Life
+
+
+
+Hex: 1, 0 	 Total Resources: 158
+Brown Drawf 	Midlife 	Low Radiation 
+12RP	Gas Planet	T5	Simple Life
+	10RP	Gas Cloud	T1	No Life
+	4RP	Rings	T3	No Life
+	7RP	Moon	T2	Complex Life
+	9RP	Moon	T1	Multi Cellular
+	15RP	Rings	T5	Complex Life
+	2RP	Rings	T1	Multi Cellular
+	1RP	Moon	T3	Simple Life
+
+19RP	Sub Star	Uninhabitable	No Life
+	6RP	Rings	T2	Simple Life
+	10RP	Moon	T4	Simple Life
+	4RP	Rings	T2	Multi Cellular
+
+7RP	Gas Planet	T3	No Life
+	7RP	Moon	T2	Single Cellular
+	27RP	Moon	Uninhabitable	No Life
+	3RP	Moon	T4	Single Cellular
+
+14RP	Artificial Planet	T5	No Life
+	1RP	Gas Cloud	T4	No Life
+
+
+
+Hex: 1, 1 	 Total Resources: 137
+Neutron Star 	Midlife 	High Radiation 
+0RP	Blackhole	Uninhabitable	No Life
+	9RP	Moon	T1	No Life
+
+5RP	Terrestrial Planet	T2	Organic Compounds
+	6RP	Rings	T1	Multi Cellular
+	2RP	Moon	T3	Simple Life
+	7RP	Moon	T5	No Life
+	4RP	Gas Cloud	T4	No Life
+	3RP	Moon	T4	Single Cellular
+	17RP	Rings	Uninhabitable	No Life
+
+6RP	Gas Planet	T1	Multi Cellular
+	5RP	Rings	T3	Single Cellular
+	10RP	Gas Cloud	T3	No Life
+	27RP	Rings	Uninhabitable	No Life
+	6RP	Moon	T2	Multi Cellular
+
+7RP	Gas Planet	T3	Simple Life
+	2RP	Moon	T3	Sentient Life
+		TL8 Digital Age	Communist Warmonger Corporate 	Aquatic 
+
+
+21RP	Comet	Uninhabitable	No Life
+
+
+Hex: 1, 2 	 Total Resources: 24
+Brown Normal 	Midlife 	Extreme Radiation 
+24RP	Comet	Uninhabitable	No Life
+
+
+Hex: 1, 3 	 Total Resources: 0
+
+Hex: 1, 4 	 Total Resources: 0
+Blackhole 	End Of Life 	Low Radiation 
+
+
+Hex: 1, 5 	 Total Resources: 39
+Brown Drawf 	Midlife 	Low Radiation 
+20RP	Comet	Uninhabitable	No Life
+9RP	Terrestrial Planet	T3	Simple Life
+	10RP	Artificial Body	T4	No Life
+
+
+
+Hex: 1, 6 	 Total Resources: 21
+Red Giant 	Newborn 	High Radiation 
+21RP	Comet	Uninhabitable	No Life
+
+
+Hex: 1, 7 	 Total Resources: 0
+
+Hex: 1, 8 	 Total Resources: 68
+White Dwarf 	Midlife 	Normal Radiation 
+8RP	Gas Planet	T5	Multi Cellular
+	12RP	Moon	T2	Simple Life
+
+10RP	Asteroid Belt	T5	Complex Life
+	15RP	Artificial Body	Uninhabitable	No Life
+	5RP	Rings	T5	Simple Life
+	13RP	Moon	T1	Organic Compounds
+	5RP	Moon	T3	Complex Life
+
+
+
+Hex: 1, 9 	 Total Resources: 90
+White Dwarf 	End Of Life 	Extreme Radiation 
+11RP	Asteroid Belt	T2	Simple Life
+	4RP	Moon	T4	Organic Compounds
+	11RP	Moon	T5	Organic Compounds
+	14RP	Moon	T5	Single Cellular
+	7RP	Gas Cloud	T3	No Life
+	4RP	Moon	T3	Multi Cellular
+	7RP	Moon	T3	No Life
+	1RP	Moon	T3	Single Cellular
+
+5RP	Gas Planet	T4	Organic Compounds
+	26RP	Moon	Uninhabitable	No Life
+
+
+
+Hex: 1, 10 	 Total Resources: 175
+Neutron Star 	Newborn 	Normal Radiation 
+25RP	Comet	Uninhabitable	No Life
+9RP	Asteroid Belt	T3	Multi Cellular
+	3RP	Moon	T3	Complex Life
+
+19RP	Sub Star	Uninhabitable	No Life
+	6RP	Gas Cloud	T2	No Life
+
+6RP	Gas Planet	T4	Organic Compounds
+	26RP	Gas Cloud	Uninhabitable	No Life
+	10RP	Moon	T3	Complex Life
+	8RP	Rings	T3	Sentient Life
+		TL7 Space Age	Theocratic Peace Keepers Communist 	Energy 
+
+	10RP	Moon	T3	Simple Life
+
+4RP	Gas Planet	T3	Multi Cellular
+	5RP	Moon	T3	Simple Life
+
+7RP	Terrestrial Planet	T1	Single Cellular
+	5RP	Moon	T2	Multi Cellular
+
+12RP	Gas Planet	T2	Multi Cellular
+	20RP	Moon	Uninhabitable	No Life
+
+
+
+Hex: 1, 11 	 Total Resources: 50
+Blackhole 	Newborn 	High Radiation 
+11RP	Gas Planet	T1	Complex Life
+	15RP	Rings	T5	Simple Life
+
+9RP	Terrestrial Planet	T3	Multi Cellular
+	7RP	Moon	T2	Single Cellular
+	8RP	Rings	T4	Complex Life
+
+
+
+Hex: 1, 12 	 Total Resources: 0
+Red Dwarf 	Newborn 	Extreme Radiation 
+
+
+Hex: 1, 13 	 Total Resources: 59
+Red Dwarf 	Newborn 	High Radiation 
+5RP	Terrestrial Planet	T3	Complex Life
+	10RP	Rings	T3	Complex Life
+	9RP	Rings	T3	Complex Life
+
+20RP	Sub Star	Uninhabitable	No Life
+	5RP	Rings	T2	Complex Life
+	10RP	Moon	T4	Complex Life
+
+
+
+Hex: 1, 14 	 Total Resources: 13
+White Giant 	Newborn 	Low Radiation 
+8RP	Gas Planet	T3	Complex Life
+	5RP	Gas Cloud	T3	No Life
+
+
+
+Hex: 2, 0 	 Total Resources: 0
+
+Hex: 2, 1 	 Total Resources: 132
+Red Normal 	Midlife 	Extreme Radiation 
+1RP	Asteroid Belt	T3	Simple Life
+	4RP	Gas Cloud	T3	No Life
+	8RP	Moon	T3	Complex Life
+	8RP	Gas Cloud	T4	No Life
+	2RP	Moon	T3	Simple Life
+
+
+Red Normal 	Midlife 	Extreme Radiation 
+5RP	Terrestrial Planet	T5	Multi Cellular
+	5RP	Artificial Body	T3	Single Cellular
+	13RP	Rings	T1	Organic Compounds
+	5RP	Moon	T3	Simple Life
+
+3RP	Artificial Planet	T3	Organic Compounds
+	8RP	Rings	T3	Complex Life
+
+8RP	Terrestrial Planet	T2	Simple Life
+	6RP	Gas Cloud	T3	No Life
+
+9RP	Asteroid Belt	T2	Simple Life
+	9RP	Moon	T5	Multi Cellular
+	9RP	Moon	T5	Simple Life
+
+5RP	Terrestrial Planet	T2	Simple Life
+	8RP	Rings	T4	Single Cellular
+
+
+Neutron Star 	Newborn 	High Radiation 
+3RP	Artificial Planet	T1	Multi Cellular
+	9RP	Moon	T3	Simple Life
+	4RP	Moon	T3	Single Cellular
+
+
+
+Hex: 2, 2 	 Total Resources: 38
+Red Giant 	Midlife 	Extreme Radiation 
+22RP	Terrestrial Planet	Uninhabitable	No Life
+	9RP	Rings	T1	Multi Cellular
+
+1RP	Terrestrial Planet	T4	Simple Life
+	6RP	Moon	T2	Multi Cellular
+
+
+
+Hex: 2, 3 	 Total Resources: 109
+White Dwarf 	Midlife 	Normal Radiation 
+8RP	Asteroid Belt	T3	Complex Life
+	12RP	Artificial Body	T5	Simple Life
+
+16RP	Terrestrial Planet	Uninhabitable	No Life
+	3RP	Rings	T1	Multi Cellular
+
+6RP	Terrestrial Planet	T1	Multi Cellular
+	1RP	Moon	T3	Complex Life
+
+4RP	Gas Planet	T1	Complex Life
+	9RP	Rings	T3	Complex Life
+	25RP	Gas Cloud	Uninhabitable	No Life
+
+11RP	Gas Planet	T1	Organic Compounds
+	4RP	Rings	T4	Multi Cellular
+	10RP	Gas Cloud	T2	No Life
+
+
+
+Hex: 2, 4 	 Total Resources: 36
+White Normal 	Midlife 	High Radiation 
+10RP	Asteroid Belt	T3	No Life
+	9RP	Rings	T2	Multi Cellular
+
+8RP	Gas Planet	T5	Single Cellular
+	2RP	Moon	T3	Organic Compounds
+	7RP	Rings	T4	Complex Life
+
+
+
+Hex: 2, 5 	 Total Resources: 19
+Red Normal 	Midlife 	Low Radiation 
+19RP	Comet	Uninhabitable	No Life
+
+
+Hex: 2, 6 	 Total Resources: 80
+Red Dwarf 	Newborn 	Extreme Radiation 
+2RP	Gas Planet	T3	No Life
+	25RP	Gas Cloud	Uninhabitable	No Life
+
+5RP	Asteroid Belt	T2	Multi Cellular
+	5RP	Rings	T3	Complex Life
+
+14RP	Terrestrial Planet	T5	Complex Life
+	14RP	Moon	T1	Multi Cellular
+
+7RP	Terrestrial Planet	T3	Complex Life
+	8RP	Rings	T3	Complex Life
+
+
+
+Hex: 2, 7 	 Total Resources: 145
+Red Normal 	Midlife 	Normal Radiation 
+8RP	Gas Planet	T5	Complex Life
+	10RP	Moon	T4	Simple Life
+	10RP	Gas Cloud	T5	No Life
+
+25RP	Sub Star	Uninhabitable	No Life
+	9RP	Rings	T4	Complex Life
+	12RP	Gas Cloud	T2	No Life
+	2RP	Rings	T3	Simple Life
+	3RP	Moon	T2	No Life
+	10RP	Moon	T1	No Life
+	8RP	Moon	T3	Complex Life
+
+19RP	Sub Star	Uninhabitable	No Life
+	8RP	Gas Cloud	T3	No Life
+	4RP	Rings	T2	No Life
+	3RP	Rings	T1	No Life
+	5RP	Rings	T3	Organic Compounds
+	9RP	Moon	T4	Single Cellular
+
+
+
+Hex: 2, 8 	 Total Resources: 45
+Red Normal 	Midlife 	Extreme Radiation 
+7RP	Asteroid Belt	T4	Simple Life
+	9RP	Rings	T3	Multi Cellular
+	10RP	Gas Cloud	T2	No Life
+	3RP	Moon	T3	Single Cellular
+
+0RP	Blackhole	Uninhabitable	No Life
+	7RP	Rings	T2	Multi Cellular
+	3RP	Moon	T4	Organic Compounds
+	6RP	Moon	T1	No Life
+
+
+
+Hex: 2, 9 	 Total Resources: 113
+Red Giant 	Midlife 	Low Radiation 
+21RP	Comet	Uninhabitable	No Life
+11RP	Terrestrial Planet	T1	No Life
+	23RP	Rings	Uninhabitable	No Life
+
+23RP	Sub Star	Uninhabitable	No Life
+	3RP	Gas Cloud	T4	No Life
+
+9RP	Gas Planet	T1	Multi Cellular
+	2RP	Moon	T3	Multi Cellular
+
+21RP	Comet	Uninhabitable	No Life
+
+
+Hex: 2, 10 	 Total Resources: 32
+Brown Drawf 	Midlife 	Normal Radiation 
+7RP	Asteroid Belt	T3	Simple Life
+	11RP	Moon	T1	Simple Life
+
+8RP	Artificial Planet	T3	Organic Compounds
+	6RP	Moon	T1	Multi Cellular
+
+
+
+Hex: 2, 11 	 Total Resources: 87
+White Dwarf 	Newborn 	Normal Radiation 
+7RP	Gas Planet	T3	No Life
+	8RP	Moon	T1	Multi Cellular
+
+17RP	Sub Star	Uninhabitable	No Life
+	5RP	Artificial Body	T4	Simple Life
+	9RP	Moon	T4	No Life
+
+11RP	Terrestrial Planet	T1	Single Cellular
+	6RP	Rings	T3	Multi Cellular
+	24RP	Moon	Uninhabitable	No Life
+
+
+
+Hex: 2, 12 	 Total Resources: 115
+Brown Normal 	End Of Life 	Extreme Radiation 
+6RP	Asteroid Belt	T4	Sentient Life
+	TL5 Industrial Revolution	Explorer Theocratic Imperialist 	Reptillian Mammal Energy 
+
+	1RP	Moon	T3	Single Cellular
+	3RP	Moon	T2	Complex Life
+	6RP	Rings	T3	Simple Life
+
+21RP	Sub Star	Uninhabitable	No Life
+	15RP	Gas Cloud	T5	No Life
+
+6RP	Gas Planet	T4	Multi Cellular
+	9RP	Moon	T3	Sentient Life
+		TL6 Atomic Age	Peace Keepers Explorer Theocratic 	Reptillian 
+
+	7RP	Moon	T1	Organic Compounds
+	5RP	Moon	T3	Complex Life
+	25RP	Moon	Uninhabitable	No Life
+	11RP	Rings	T5	Complex Life
+
+
+
+Hex: 2, 13 	 Total Resources: 0
+
+Hex: 2, 14 	 Total Resources: 76
+Red Normal 	Newborn 	Low Radiation 
+14RP	Terrestrial Planet	T5	Complex Life
+	10RP	Rings	T3	Organic Compounds
+	7RP	Moon	T3	Complex Life
+
+6RP	Terrestrial Planet	T3	No Life
+	9RP	Gas Cloud	T3	No Life
+
+23RP	Sub Star	Uninhabitable	No Life
+	7RP	Moon	T2	Multi Cellular
+
+
+
+Hex: 3, 0 	 Total Resources: 6
+White Giant 	Newborn 	Low Radiation 
+0RP	Blackhole	Uninhabitable	No Life
+	6RP	Moon	T4	Simple Life
+
+
+
+Hex: 3, 1 	 Total Resources: 15
+Neutron Star 	Newborn 	Extreme Radiation 
+11RP	Gas Planet	T5	Multi Cellular
+	4RP	Moon	T3	Complex Life
+
+
+
+Hex: 3, 2 	 Total Resources: 3
+Brown Drawf 	Midlife 	High Radiation 
+1RP	Gas Planet	T4	Multi Cellular
+	2RP	Moon	T3	Multi Cellular
+
+
+
+Hex: 3, 3 	 Total Resources: 15
+Blackhole 	Newborn 	Normal Radiation 
+1RP	Gas Planet	T3	Simple Life
+	14RP	Moon	T1	Organic Compounds
+
+
+
+Hex: 3, 4 	 Total Resources: 95
+White Giant 	Midlife 	Low Radiation 
+23RP	Comet	Uninhabitable	No Life
+1RP	Gas Planet	T3	No Life
+	7RP	Moon	T5	Complex Life
+	3RP	Rings	T3	Complex Life
+	9RP	Rings	T5	Complex Life
+	9RP	Gas Cloud	T2	No Life
+
+17RP	Comet	Uninhabitable	No Life
+26RP	Comet	Uninhabitable	No Life
+
+
+Hex: 3, 5 	 Total Resources: 104
+White Dwarf 	Midlife 	Extreme Radiation 
+3RP	Gas Planet	T3	Simple Life
+	9RP	Moon	T2	No Life
+
+30RP	Sub Star	Uninhabitable	No Life
+	10RP	Moon	T5	Complex Life
+	12RP	Moon	T5	Complex Life
+
+12RP	Asteroid Belt	T5	Simple Life
+	4RP	Gas Cloud	T3	No Life
+
+11RP	Gas Planet	T5	Complex Life
+	10RP	Moon	T5	Complex Life
+	1RP	Rings	T4	Complex Life
+	2RP	Rings	T3	Complex Life
+
+
+
+Hex: 3, 6 	 Total Resources: 0
+Blackhole 	Newborn 	Extreme Radiation 
+
+
+Hex: 3, 7 	 Total Resources: 0
+White Normal 	Midlife 	Normal Radiation 
+
+
+Hex: 3, 8 	 Total Resources: 0
+White Normal 	Newborn 	High Radiation 
+
+
+Hex: 3, 9 	 Total Resources: 94
+Brown Drawf 	Midlife 	Low Radiation 
+0RP	Blackhole	Uninhabitable	No Life
+	10RP	Rings	T1	Multi Cellular
+	3RP	Rings	T2	Simple Life
+
+7RP	Artificial Planet	T1	No Life
+	10RP	Rings	T4	Complex Life
+	14RP	Moon	T5	Complex Life
+	10RP	Artificial Body	T3	Simple Life
+
+12RP	Gas Planet	T5	No Life
+	12RP	Gas Cloud	T5	No Life
+
+7RP	Terrestrial Planet	T3	Simple Life
+	9RP	Artificial Body	T2	No Life
+
+
+
+Hex: 3, 10 	 Total Resources: 115
+Red Dwarf 	Newborn 	Low Radiation 
+21RP	Comet	Uninhabitable	No Life
+5RP	Asteroid Belt	T3	Complex Life
+	25RP	Rings	Uninhabitable	No Life
+
+8RP	Artificial Planet	T2	Complex Life
+	6RP	Gas Cloud	T3	No Life
+
+2RP	Asteroid Belt	T3	Complex Life
+	8RP	Rings	T2	Single Cellular
+	1RP	Gas Cloud	T4	No Life
+	23RP	Rings	Uninhabitable	No Life
+	16RP	Rings	Uninhabitable	No Life
+
+
+
+Hex: 3, 11 	 Total Resources: 0
+
+Hex: 3, 12 	 Total Resources: 0
+
+Hex: 3, 13 	 Total Resources: 110
+Red Normal 	Midlife 	Normal Radiation 
+15RP	Comet	Uninhabitable	No Life
+2RP	Terrestrial Planet	T3	Organic Compounds
+	2RP	Moon	T3	Complex Life
+	3RP	Moon	T4	Complex Life
+
+19RP	Comet	Uninhabitable	No Life
+5RP	Terrestrial Planet	T3	Single Cellular
+	8RP	Moon	T2	Multi Cellular
+
+7RP	Asteroid Belt	T1	Single Cellular
+	10RP	Rings	T2	No Life
+	5RP	Moon	T3	Multi Cellular
+	1RP	Moon	T4	Multi Cellular
+
+4RP	Terrestrial Planet	T2	Multi Cellular
+	7RP	Moon	T4	Complex Life
+
+1RP	Gas Planet	T3	Multi Cellular
+	6RP	Rings	T3	Complex Life
+	15RP	Gas Cloud	T5	No Life
+
+
+
+Hex: 3, 14 	 Total Resources: 0
+
+Hex: 4, 0 	 Total Resources: 60
+Neutron Star 	Midlife 	Low Radiation 
+19RP	Comet	Uninhabitable	No Life
+6RP	Asteroid Belt	T4	No Life
+	14RP	Moon	T1	Complex Life
+
+4RP	Gas Planet	T3	Single Cellular
+	10RP	Gas Cloud	T4	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	7RP	Moon	T2	Organic Compounds
+
+
+
+Hex: 4, 1 	 Total Resources: 26
+Brown Drawf 	Midlife 	High Radiation 
+6RP	Terrestrial Planet	T2	Multi Cellular
+	14RP	Rings	T5	Simple Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	6RP	Rings	T3	Sentient Life
+		TL8 Digital Age	Communist Peace Keepers Scientist 	Aquatic 
+
+
+
+
+Hex: 4, 2 	 Total Resources: 0
+
+Hex: 4, 3 	 Total Resources: 52
+White Dwarf 	Midlife 	Extreme Radiation 
+0RP	Blackhole	Uninhabitable	No Life
+	9RP	Gas Cloud	T5	No Life
+
+7RP	Gas Planet	T1	Simple Life
+	6RP	Gas Cloud	T1	No Life
+
+8RP	Gas Planet	T5	Single Cellular
+	13RP	Moon	T2	Multi Cellular
+	9RP	Gas Cloud	T1	No Life
+
+
+
+Hex: 4, 4 	 Total Resources: 70
+Brown Drawf 	Midlife 	Normal Radiation 
+22RP	Sub Star	Uninhabitable	No Life
+	3RP	Gas Cloud	T3	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	13RP	Rings	T5	Multi Cellular
+	8RP	Moon	T3	Organic Compounds
+	11RP	Rings	T2	Organic Compounds
+	6RP	Artificial Body	T2	No Life
+
+2RP	Gas Planet	T3	Multi Cellular
+	5RP	Rings	T4	Complex Life
+
+
+
+Hex: 4, 5 	 Total Resources: 211
+Red Normal 	Midlife 	Low Radiation 
+11RP	Asteroid Belt	T2	No Life
+	9RP	Rings	T3	No Life
+	10RP	Moon	T4	Complex Life
+
+20RP	Sub Star	Uninhabitable	No Life
+	8RP	Rings	T3	Complex Life
+	11RP	Moon	T5	Single Cellular
+
+10RP	Terrestrial Planet	T3	Simple Life
+	9RP	Gas Cloud	T1	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	5RP	Rings	T1	No Life
+	10RP	Moon	T5	Complex Life
+
+6RP	Artificial Planet	T3	Complex Life
+	1RP	Rings	T3	Single Cellular
+
+7RP	Terrestrial Planet	T3	Simple Life
+	16RP	Gas Cloud	T5	No Life
+	16RP	Moon	Uninhabitable	No Life
+	7RP	Moon	T4	Multi Cellular
+
+3RP	Gas Planet	T3	Multi Cellular
+	9RP	Rings	T3	Complex Life
+	8RP	Moon	T4	Simple Life
+
+29RP	Sub Star	Uninhabitable	No Life
+	5RP	Moon	T2	Multi Cellular
+	1RP	Rings	T3	Organic Compounds
+
+
+
+Hex: 4, 6 	 Total Resources: 99
+Red Normal 	Newborn 	Extreme Radiation 
+29RP	Comet	Uninhabitable	No Life
+9RP	Terrestrial Planet	T3	Simple Life
+	7RP	Moon	T2	Simple Life
+	4RP	Moon	T1	No Life
+
+14RP	Terrestrial Planet	T5	Simple Life
+	5RP	Gas Cloud	T1	No Life
+
+9RP	Gas Planet	T3	Simple Life
+	3RP	Artificial Body	T2	Complex Life
+	19RP	Rings	Uninhabitable	No Life
+
+
+
+Hex: 4, 7 	 Total Resources: 54
+Blackhole 	Newborn 	High Radiation 
+9RP	Artificial Planet	T1	Complex Life
+	12RP	Moon	T2	Multi Cellular
+	2RP	Moon	T3	No Life
+
+9RP	Gas Planet	T3	Complex Life
+	6RP	Moon	T1	Complex Life
+
+5RP	Terrestrial Planet	T3	Complex Life
+	11RP	Moon	T5	Complex Life
+
+
+
+Hex: 4, 8 	 Total Resources: 0
+White Giant 	Midlife 	Low Radiation 
+
+
+Hex: 4, 9 	 Total Resources: 37
+Red Giant 	Midlife 	Normal Radiation 
+12RP	Gas Planet	T1	Multi Cellular
+	9RP	Moon	T1	Multi Cellular
+	16RP	Rings	T5	Simple Life
+
+
+
+Hex: 4, 10 	 Total Resources: 12
+Red Giant 	End Of Life 	Normal Radiation 
+5RP	Asteroid Belt	T4	Sentient Life
+	TL8 Digital Age	Philosophical Theocratic Communist 	Avian 
+
+	7RP	Moon	T3	Complex Life
+
+
+
+Hex: 4, 11 	 Total Resources: 73
+White Dwarf 	End Of Life 	Extreme Radiation 
+21RP	Comet	Uninhabitable	No Life
+17RP	Comet	Uninhabitable	No Life
+5RP	Terrestrial Planet	T3	Simple Life
+	6RP	Gas Cloud	T1	No Life
+	5RP	Rings	T3	Organic Compounds
+	8RP	Artificial Body	T2	Single Cellular
+
+8RP	Asteroid Belt	T1	Simple Life
+	3RP	Moon	T3	Single Cellular
+
+
+
+Hex: 4, 12 	 Total Resources: 92
+White Dwarf 	End Of Life 	Normal Radiation 
+25RP	Asteroid Belt	Uninhabitable	No Life
+	3RP	Rings	T4	Simple Life
+	8RP	Moon	T3	Complex Life
+
+11RP	Terrestrial Planet	T5	Simple Life
+	4RP	Moon	T2	Multi Cellular
+	9RP	Moon	T4	Complex Life
+
+11RP	Terrestrial Planet	T2	Multi Cellular
+	2RP	Moon	T3	Complex Life
+	13RP	Rings	T2	Single Cellular
+
+4RP	Terrestrial Planet	T3	Complex Life
+	2RP	Gas Cloud	T1	No Life
+
+
+
+Hex: 4, 13 	 Total Resources: 41
+Neutron Star 	Midlife 	Low Radiation 
+12RP	Terrestrial Planet	T5	Sentient Life
+	TL8 Digital Age	Corporate Communist Philosophical 	Mammal Rock 
+	TL3 Bronze Age	Corporate Explorer Peace Keepers 	Aquatic 
+
+	8RP	Moon	T3	No Life
+	13RP	Rings	T5	Organic Compounds
+	8RP	Rings	T2	Simple Life
+
+
+
+Hex: 4, 14 	 Total Resources: 0
+
+Hex: 5, 0 	 Total Resources: 47
+White Dwarf 	Midlife 	Low Radiation 
+0RP	Blackhole	Uninhabitable	No Life
+	3RP	Moon	T4	Multi Cellular
+	5RP	Moon	T3	Complex Life
+
+13RP	Gas Planet	T5	Multi Cellular
+	2RP	Rings	T4	Complex Life
+
+9RP	Gas Planet	T3	Simple Life
+	7RP	Moon	T2	Multi Cellular
+	8RP	Gas Cloud	T5	No Life
+
+
+
+Hex: 5, 1 	 Total Resources: 123
+Red Dwarf 	Midlife 	High Radiation 
+10RP	Gas Planet	T1	No Life
+	4RP	Moon	T3	Simple Life
+
+9RP	Gas Planet	T5	No Life
+	1RP	Gas Cloud	T3	No Life
+
+17RP	Sub Star	Uninhabitable	No Life
+	4RP	Rings	T3	Complex Life
+	9RP	Gas Cloud	T3	No Life
+
+10RP	Terrestrial Planet	T1	Complex Life
+	8RP	Moon	T3	Single Cellular
+
+18RP	Gas Planet	Uninhabitable	No Life
+	6RP	Rings	T1	Single Cellular
+	3RP	Rings	T4	Complex Life
+	10RP	Rings	T2	Multi Cellular
+	7RP	Rings	T4	Simple Life
+	7RP	Gas Cloud	T2	No Life
+
+
+
+Hex: 5, 2 	 Total Resources: 158
+White Dwarf 	Midlife 	Extreme Radiation 
+16RP	Terrestrial Planet	T5	Simple Life
+	4RP	Rings	T2	Multi Cellular
+
+20RP	Sub Star	Uninhabitable	No Life
+	13RP	Rings	T1	Single Cellular
+	2RP	Moon	T3	Complex Life
+
+2RP	Terrestrial Planet	T3	Complex Life
+	9RP	Rings	T5	Single Cellular
+
+
+White Giant 	End Of Life 	High Radiation 
+15RP	Gas Planet	T5	Sentient Life
+		TL9 Interstellar Age	Peace Keepers Capitalist Warmonger 	Energy Mammal 
+	8RP	Moon	T5	Complex Life
+
+6RP	Gas Planet	T3	Multi Cellular
+	7RP	Artificial Body	T5	Simple Life
+
+
+Neutron Star 	End Of Life 	High Radiation 
+6RP	Asteroid Belt	T4	Simple Life
+	10RP	Moon	T2	Complex Life
+	6RP	Rings	T4	Simple Life
+	11RP	Gas Cloud	T5	No Life
+	10RP	Rings	T3	Complex Life
+	6RP	Rings	T4	Multi Cellular
+	7RP	Artificial Body	T4	Simple Life
+
+
+
+Hex: 5, 3 	 Total Resources: 52
+Red Dwarf 	Midlife 	Extreme Radiation 
+6RP	Asteroid Belt	T2	No Life
+	9RP	Rings	T2	Multi Cellular
+
+11RP	Terrestrial Planet	T5	Simple Life
+	14RP	Rings	T5	Simple Life
+	12RP	Rings	T5	Organic Compounds
+
+
+
+Hex: 5, 4 	 Total Resources: 164
+Brown Normal 	Midlife 	Extreme Radiation 
+0RP	Blackhole	Uninhabitable	No Life
+	6RP	Moon	T2	Organic Compounds
+
+16RP	Terrestrial Planet	T5	Multi Cellular
+	4RP	Moon	T3	Single Cellular
+
+15RP	Sub Star	Uninhabitable	No Life
+	4RP	Moon	T2	Simple Life
+	7RP	Moon	T1	Simple Life
+
+12RP	Gas Planet	T5	Multi Cellular
+	13RP	Rings	T1	Multi Cellular
+
+15RP	Terrestrial Planet	T5	Complex Life
+	10RP	Gas Cloud	T3	No Life
+	8RP	Gas Cloud	T2	No Life
+
+3RP	Gas Planet	T4	Multi Cellular
+	10RP	Moon	T2	Simple Life
+
+17RP	Asteroid Belt	T5	Simple Life
+	11RP	Rings	T5	Complex Life
+	4RP	Moon	T3	No Life
+
+3RP	Terrestrial Planet	T3	Single Cellular
+	6RP	Gas Cloud	T1	No Life
+
+
+
+Hex: 5, 5 	 Total Resources: 61
+Blackhole 	Midlife 	Low Radiation 
+7RP	Gas Planet	T1	Organic Compounds
+	9RP	Moon	T4	Single Cellular
+	10RP	Moon	T5	Simple Life
+
+10RP	Asteroid Belt	T3	Simple Life
+	20RP	Gas Cloud	Uninhabitable	No Life
+	5RP	Rings	T1	Multi Cellular
+
+
+
+Hex: 5, 6 	 Total Resources: 70
+White Normal 	Midlife 	Normal Radiation 
+17RP	Gas Planet	Uninhabitable	No Life
+	4RP	Rings	T3	No Life
+	8RP	Moon	T5	Simple Life
+
+5RP	Gas Planet	T3	Multi Cellular
+	9RP	Rings	T3	Complex Life
+
+13RP	Terrestrial Planet	T2	No Life
+	3RP	Moon	T4	Complex Life
+
+8RP	Gas Planet	T1	Single Cellular
+	3RP	Moon	T2	Complex Life
+
+
+
+Hex: 5, 7 	 Total Resources: 45
+White Normal 	Midlife 	Normal Radiation 
+14RP	Artificial Planet	T5	Single Cellular
+	9RP	Moon	T2	Multi Cellular
+
+4RP	Terrestrial Planet	T1	Single Cellular
+	9RP	Rings	T1	Organic Compounds
+	9RP	Gas Cloud	T1	No Life
+
+
+
+Hex: 5, 8 	 Total Resources: 29
+Neutron Star 	Midlife 	High Radiation 
+22RP	Sub Star	Uninhabitable	No Life
+	7RP	Moon	T1	No Life
+
+
+
+Hex: 5, 9 	 Total Resources: 31
+White Normal 	Midlife 	High Radiation 
+9RP	Terrestrial Planet	T3	Multi Cellular
+	22RP	Moon	Uninhabitable	No Life
+
+
+
+Hex: 5, 10 	 Total Resources: 72
+White Normal 	Midlife 	High Radiation 
+13RP	Gas Planet	T5	Single Cellular
+	8RP	Rings	T5	Simple Life
+	8RP	Moon	T1	Multi Cellular
+	3RP	Moon	T3	Complex Life
+
+8RP	Gas Planet	T4	Complex Life
+	20RP	Moon	Uninhabitable	No Life
+
+3RP	Gas Planet	T4	Multi Cellular
+	9RP	Rings	T1	Simple Life
+
+
+
+Hex: 5, 11 	 Total Resources: 90
+Neutron Star 	Midlife 	Normal Radiation 
+15RP	Terrestrial Planet	T1	Organic Compounds
+	6RP	Moon	T5	Multi Cellular
+
+15RP	Asteroid Belt	T5	Simple Life
+	22RP	Moon	Uninhabitable	No Life
+
+29RP	Sub Star	Uninhabitable	No Life
+	3RP	Gas Cloud	T3	No Life
+
+
+
+Hex: 5, 12 	 Total Resources: 0
+Brown Normal 	Midlife 	Low Radiation 
+
+
+Hex: 5, 13 	 Total Resources: 112
+Brown Drawf 	Midlife 	Extreme Radiation 
+10RP	Terrestrial Planet	T4	Simple Life
+	7RP	Gas Cloud	T2	No Life
+	7RP	Moon	T2	Single Cellular
+	13RP	Rings	T1	Multi Cellular
+	10RP	Moon	T4	Complex Life
+	5RP	Moon	T4	Multi Cellular
+	9RP	Moon	T5	Complex Life
+	10RP	Moon	T5	Organic Compounds
+
+2RP	Asteroid Belt	T3	No Life
+	8RP	Moon	T4	No Life
+	9RP	Rings	T5	Complex Life
+
+8RP	Terrestrial Planet	T4	Complex Life
+	6RP	Gas Cloud	T4	No Life
+
+4RP	Gas Planet	T2	Multi Cellular
+	4RP	Moon	T3	Complex Life
+
+
+
+Hex: 5, 14 	 Total Resources: 207
+Red Normal 	End Of Life 	Normal Radiation 
+7RP	Terrestrial Planet	T3	Complex Life
+	12RP	Moon	T1	Multi Cellular
+	6RP	Moon	T5	Simple Life
+
+14RP	Gas Planet	T5	Multi Cellular
+	3RP	Moon	T4	Complex Life
+
+21RP	Sub Star	Uninhabitable	No Life
+	15RP	Moon	T5	Complex Life
+
+18RP	Sub Star	Uninhabitable	No Life
+	4RP	Moon	T2	Multi Cellular
+	2RP	Gas Cloud	T3	No Life
+	9RP	Moon	T1	Multi Cellular
+	8RP	Moon	T3	No Life
+
+7RP	Terrestrial Planet	T4	Multi Cellular
+	4RP	Rings	T3	Complex Life
+	12RP	Rings	Uninhabitable	No Life
+
+11RP	Gas Planet	T2	Complex Life
+	15RP	Rings	T1	No Life
+
+6RP	Terrestrial Planet	T2	Multi Cellular
+	4RP	Rings	T3	Multi Cellular
+
+2RP	Terrestrial Planet	T3	Simple Life
+	5RP	Rings	T2	No Life
+
+8RP	Gas Planet	T1	Organic Compounds
+	6RP	Rings	T2	Multi Cellular
+	8RP	Rings	T4	Simple Life
+
+
+
+Hex: 6, 0 	 Total Resources: 129
+Red Normal 	Midlife 	Extreme Radiation 
+9RP	Gas Planet	T4	Multi Cellular
+	5RP	Moon	T3	Simple Life
+	11RP	Rings	T5	Complex Life
+
+17RP	Terrestrial Planet	T5	No Life
+	12RP	Gas Cloud	T5	No Life
+	12RP	Rings	T1	Multi Cellular
+	8RP	Moon	T4	Simple Life
+
+9RP	Terrestrial Planet	T2	Multi Cellular
+	9RP	Moon	T4	No Life
+
+10RP	Terrestrial Planet	T5	Multi Cellular
+	12RP	Moon	T1	Multi Cellular
+
+11RP	Terrestrial Planet	T5	Complex Life
+	4RP	Moon	T3	Complex Life
+
+
+
+Hex: 6, 1 	 Total Resources: 51
+Brown Normal 	Midlife 	Extreme Radiation 
+12RP	Gas Planet	T1	Multi Cellular
+	12RP	Moon	T2	Single Cellular
+
+5RP	Asteroid Belt	T2	No Life
+	9RP	Moon	T3	Complex Life
+
+5RP	Terrestrial Planet	T5	Sentient Life
+	TL5 Industrial Revolution	Imperialist Capitalist Philosophical 	Reptillian 
+
+	8RP	Gas Cloud	T2	No Life
+
+
+
+Hex: 6, 2 	 Total Resources: 89
+Neutron Star 	End Of Life 	Normal Radiation 
+1RP	Asteroid Belt	T3	Single Cellular
+	25RP	Moon	Uninhabitable	No Life
+	7RP	Moon	T4	Complex Life
+
+7RP	Terrestrial Planet	T3	Complex Life
+	3RP	Moon	T2	Multi Cellular
+	21RP	Moon	Uninhabitable	No Life
+
+5RP	Terrestrial Planet	T3	Complex Life
+	4RP	Rings	T3	Multi Cellular
+
+6RP	Terrestrial Planet	T1	Organic Compounds
+	10RP	Rings	T1	Multi Cellular
+
+
+
+Hex: 6, 3 	 Total Resources: 0
+
+Hex: 6, 4 	 Total Resources: 16
+White Dwarf 	Newborn 	Extreme Radiation 
+8RP	Artificial Planet	T2	Multi Cellular
+	8RP	Moon	T1	No Life
+
+
+
+Hex: 6, 5 	 Total Resources: 70
+Blackhole 	Midlife 	Low Radiation 
+19RP	Terrestrial Planet	Uninhabitable	No Life
+	4RP	Moon	T2	Multi Cellular
+
+1RP	Gas Planet	T3	Multi Cellular
+	6RP	Gas Cloud	T3	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	11RP	Gas Cloud	T1	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	29RP	Gas Cloud	Uninhabitable	No Life
+
+
+
+Hex: 6, 6 	 Total Resources: 0
+Red Normal 	Midlife 	Low Radiation 
+
+
+Hex: 6, 7 	 Total Resources: 0
+Neutron Star 	End Of Life 	Normal Radiation 
+
+
+Hex: 6, 8 	 Total Resources: 0
+
+Hex: 6, 9 	 Total Resources: 75
+White Normal 	Midlife 	Normal Radiation 
+20RP	Comet	Uninhabitable	No Life
+16RP	Gas Planet	T5	Simple Life
+	5RP	Moon	T3	Complex Life
+	9RP	Artificial Body	T4	Simple Life
+
+8RP	Terrestrial Planet	T2	No Life
+	3RP	Moon	T1	Simple Life
+
+9RP	Gas Planet	T3	Multi Cellular
+	5RP	Rings	T3	Simple Life
+
+
+
+Hex: 6, 10 	 Total Resources: 165
+Red Dwarf 	Newborn 	Extreme Radiation 
+1RP	Asteroid Belt	T3	Organic Compounds
+	4RP	Rings	T3	Complex Life
+
+2RP	Gas Planet	T3	No Life
+	4RP	Moon	T4	Simple Life
+	6RP	Gas Cloud	T3	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	26RP	Moon	Uninhabitable	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	8RP	Moon	T3	Simple Life
+
+9RP	Asteroid Belt	T5	Single Cellular
+	15RP	Moon	Uninhabitable	No Life
+
+7RP	Asteroid Belt	T1	Organic Compounds
+	10RP	Artificial Body	T2	Organic Compounds
+
+5RP	Terrestrial Planet	T1	Multi Cellular
+	10RP	Moon	T2	Multi Cellular
+
+16RP	Terrestrial Planet	T5	Simple Life
+	13RP	Moon	T5	Complex Life
+	6RP	Rings	T4	Multi Cellular
+
+6RP	Terrestrial Planet	T3	No Life
+	4RP	Rings	T3	Multi Cellular
+
+6RP	Asteroid Belt	T3	Complex Life
+	7RP	Artificial Body	T4	Complex Life
+
+
+
+Hex: 6, 11 	 Total Resources: 111
+White Giant 	End Of Life 	High Radiation 
+14RP	Asteroid Belt	T5	Simple Life
+	2RP	Rings	T4	No Life
+	8RP	Moon	T1	No Life
+
+18RP	Comet	Uninhabitable	No Life
+12RP	Gas Planet	T1	Simple Life
+	24RP	Moon	Uninhabitable	No Life
+	25RP	Moon	Uninhabitable	No Life
+	8RP	Moon	T2	No Life
+
+
+
+Hex: 6, 12 	 Total Resources: 100
+Red Giant 	Newborn 	Extreme Radiation 
+3RP	Gas Planet	T3	Multi Cellular
+	10RP	Moon	T5	Complex Life
+	4RP	Moon	T1	Multi Cellular
+
+11RP	Gas Planet	T2	No Life
+	2RP	Rings	T3	Complex Life
+
+6RP	Asteroid Belt	T3	Simple Life
+	9RP	Moon	T4	Multi Cellular
+
+28RP	Asteroid Belt	Uninhabitable	No Life
+	9RP	Moon	T1	Single Cellular
+	6RP	Moon	T3	Simple Life
+
+2RP	Terrestrial Planet	T4	Complex Life
+	10RP	Rings	T5	Organic Compounds
+
+
+
+Hex: 6, 13 	 Total Resources: 34
+Neutron Star 	Midlife 	Normal Radiation 
+15RP	Terrestrial Planet	T5	Complex Life
+	13RP	Rings	T2	Multi Cellular
+	6RP	Moon	T1	No Life
+
+
+
+Hex: 6, 14 	 Total Resources: 0
+
+Hex: 7, 0 	 Total Resources: 0
+
+Hex: 7, 1 	 Total Resources: 21
+Neutron Star 	Midlife 	Normal Radiation 
+13RP	Asteroid Belt	T5	Single Cellular
+	8RP	Rings	T5	Simple Life
+
+
+
+Hex: 7, 2 	 Total Resources: 22
+White Dwarf 	Newborn 	High Radiation 
+8RP	Gas Planet	T3	Multi Cellular
+	7RP	Moon	T3	No Life
+	7RP	Gas Cloud	T3	No Life
+
+
+
+Hex: 7, 3 	 Total Resources: 0
+
+Hex: 7, 4 	 Total Resources: 94
+Red Normal 	Midlife 	Low Radiation 
+1RP	Gas Planet	T4	No Life
+	9RP	Moon	T4	Complex Life
+
+24RP	Terrestrial Planet	Uninhabitable	No Life
+	15RP	Rings	Uninhabitable	No Life
+
+7RP	Asteroid Belt	T3	Complex Life
+	3RP	Rings	T4	Simple Life
+	3RP	Moon	T4	No Life
+
+16RP	Sub Star	Uninhabitable	No Life
+	4RP	Rings	T3	Simple Life
+	12RP	Rings	T5	Single Cellular
+
+
+
+Hex: 7, 5 	 Total Resources: 52
+Brown Drawf 	Midlife 	Normal Radiation 
+0RP	Blackhole	Uninhabitable	No Life
+	10RP	Moon	T4	Complex Life
+
+10RP	Asteroid Belt	T3	Complex Life
+	15RP	Moon	T5	Simple Life
+
+7RP	Gas Planet	T4	No Life
+	7RP	Artificial Body	T4	Simple Life
+	3RP	Artificial Body	T3	Sentient Life
+		TL3 Bronze Age	Warmonger Peace Keepers Scientist 	Amphibian Energy Mammal Aquatic Rock Reptillian Avian 
+		TL5 Industrial Revolution	Capitalist Corporate Imperialist 	Reptillian 
+		TL4 Iron Age	Imperialist Philosophical Capitalist 	Mammal 
+		TL8 Digital Age	Scientist Capitalist Imperialist 	Exotic 
+		TL9 Interstellar Age	Theocratic Scientist Warmonger 	Mammal 
+
+
+
+
+Hex: 7, 6 	 Total Resources: 111
+Neutron Star 	Midlife 	Normal Radiation 
+5RP	Terrestrial Planet	T1	No Life
+	1RP	Moon	T3	Simple Life
+
+9RP	Gas Planet	T3	Organic Compounds
+	8RP	Gas Cloud	T3	No Life
+	9RP	Moon	T5	Complex Life
+
+14RP	Gas Planet	T5	Single Cellular
+	14RP	Gas Cloud	Uninhabitable	No Life
+	2RP	Rings	T3	Complex Life
+	6RP	Moon	T4	Sentient Life
+		TL6 Atomic Age	Theocratic Scientist Imperialist 	Aquatic Mammal Reptillian Avian 
+		TL8 Digital Age	Corporate Peace Keepers Warmonger 	Mammal 
+		TL4 Iron Age	Communist Warmonger Scientist 	Mammal 
+
+	9RP	Moon	T3	Simple Life
+	9RP	Gas Cloud	T2	No Life
+
+4RP	Terrestrial Planet	T4	Simple Life
+	5RP	Moon	T4	Complex Life
+	4RP	Moon	T3	Complex Life
+	9RP	Moon	T5	Multi Cellular
+	3RP	Artificial Body	T3	No Life
+
+
+
+Hex: 7, 7 	 Total Resources: 0
+White Dwarf 	Midlife 	Extreme Radiation 
+
+
+Hex: 7, 8 	 Total Resources: 53
+Brown Drawf 	Midlife 	Extreme Radiation 
+17RP	Terrestrial Planet	T5	Organic Compounds
+	5RP	Rings	T3	Sentient Life
+		TL1 Cavemen	Imperialist Warmonger Philosophical 	Reptillian 
+		TL9 Interstellar Age	Philosophical Warmonger Imperialist 	Mammal 
+
+	6RP	Moon	T3	Complex Life
+	4RP	Rings	T3	Complex Life
+
+6RP	Gas Planet	T2	Multi Cellular
+	4RP	Rings	T2	Simple Life
+	11RP	Moon	T5	Simple Life
+
+
+
+Hex: 7, 9 	 Total Resources: 69
+Neutron Star 	Newborn 	Normal Radiation 
+3RP	Asteroid Belt	T3	No Life
+	4RP	Moon	T4	Simple Life
+
+9RP	Gas Planet	T3	Organic Compounds
+	9RP	Artificial Body	T3	Simple Life
+
+7RP	Gas Planet	T2	No Life
+	9RP	Rings	T5	No Life
+	28RP	Gas Cloud	Uninhabitable	No Life
+
+
+
+Hex: 7, 10 	 Total Resources: 16
+Red Dwarf 	Newborn 	Normal Radiation 
+6RP	Gas Planet	T3	Complex Life
+	3RP	Rings	T3	No Life
+	7RP	Gas Cloud	T3	No Life
+
+
+
+Hex: 7, 11 	 Total Resources: 50
+Red Giant 	End Of Life 	High Radiation 
+5RP	Gas Planet	T1	Organic Compounds
+	15RP	Rings	T5	Multi Cellular
+
+17RP	Terrestrial Planet	Uninhabitable	No Life
+	5RP	Gas Cloud	T3	No Life
+
+7RP	Gas Planet	T5	Complex Life
+	1RP	Moon	T3	Simple Life
+
+
+
+Hex: 7, 12 	 Total Resources: 96
+Red Giant 	End Of Life 	Extreme Radiation 
+5RP	Terrestrial Planet	T1	Single Cellular
+	5RP	Gas Cloud	T3	No Life
+	10RP	Gas Cloud	T5	No Life
+
+25RP	Comet	Uninhabitable	No Life
+
+Red Giant 	Midlife 	High Radiation 
+21RP	Sub Star	Uninhabitable	No Life
+	7RP	Rings	T2	Multi Cellular
+
+0RP	Blackhole	Uninhabitable	No Life
+	6RP	Rings	T2	No Life
+	8RP	Rings	T3	Complex Life
+	9RP	Moon	T3	Complex Life
+
+
+
+Hex: 7, 13 	 Total Resources: 67
+White Giant 	Midlife 	High Radiation 
+5RP	Gas Planet	T3	No Life
+	17RP	Gas Cloud	Uninhabitable	No Life
+
+1RP	Terrestrial Planet	T3	Complex Life
+	4RP	Rings	T3	Complex Life
+
+5RP	Gas Planet	T3	Complex Life
+	2RP	Moon	T3	Simple Life
+	9RP	Gas Cloud	T3	No Life
+
+12RP	Terrestrial Planet	T2	Multi Cellular
+	6RP	Rings	T4	Complex Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	6RP	Rings	T2	Multi Cellular
+
+
+
+Hex: 7, 14 	 Total Resources: 28
+Red Dwarf 	Newborn 	Extreme Radiation 
+15RP	Terrestrial Planet	T5	Complex Life
+	11RP	Rings	T1	Multi Cellular
+	2RP	Moon	T3	Organic Compounds
+
+
+
+Hex: 8, 0 	 Total Resources: 0
+Blackhole 	Midlife 	Extreme Radiation 
+
+
+Hex: 8, 1 	 Total Resources: 0
+Brown Drawf 	End Of Life 	Normal Radiation 
+
+
+Hex: 8, 2 	 Total Resources: 23
+Red Dwarf 	Midlife 	Extreme Radiation 
+4RP	Terrestrial Planet	T1	Multi Cellular
+	19RP	Gas Cloud	Uninhabitable	No Life
+
+
+
+Hex: 8, 3 	 Total Resources: 11
+Neutron Star 	Midlife 	High Radiation 
+5RP	Asteroid Belt	T2	Multi Cellular
+	6RP	Moon	T3	Simple Life
+
+
+
+Hex: 8, 4 	 Total Resources: 165
+White Normal 	End Of Life 	Normal Radiation 
+10RP	Gas Planet	T2	Complex Life
+	23RP	Rings	Uninhabitable	No Life
+	10RP	Moon	T3	Complex Life
+
+16RP	Asteroid Belt	T5	No Life
+	6RP	Gas Cloud	T5	No Life
+
+2RP	Terrestrial Planet	T3	Sentient Life
+	TL5 Industrial Revolution	Imperialist Warmonger Communist 	Rock 
+
+	4RP	Moon	T3	No Life
+
+
+Red Dwarf 	Midlife 	Low Radiation 
+6RP	Gas Planet	T3	Multi Cellular
+	7RP	Rings	T2	Multi Cellular
+
+23RP	Terrestrial Planet	Uninhabitable	No Life
+	5RP	Rings	T3	Complex Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	13RP	Rings	T5	Complex Life
+	5RP	Rings	T3	No Life
+	6RP	Rings	T4	Simple Life
+	4RP	Rings	T4	No Life
+
+25RP	Comet	Uninhabitable	No Life
+
+
+Hex: 8, 5 	 Total Resources: 87
+Brown Normal 	Midlife 	Low Radiation 
+7RP	Terrestrial Planet	T5	Single Cellular
+	8RP	Rings	T4	Complex Life
+	10RP	Rings	T3	Single Cellular
+
+11RP	Terrestrial Planet	T5	Simple Life
+	14RP	Gas Cloud	T5	No Life
+
+22RP	Comet	Uninhabitable	No Life
+7RP	Gas Planet	T3	Single Cellular
+	8RP	Moon	T3	Complex Life
+
+
+
+Hex: 8, 6 	 Total Resources: 103
+Red Normal 	Newborn 	High Radiation 
+13RP	Terrestrial Planet	T1	Organic Compounds
+	7RP	Moon	T5	Complex Life
+	4RP	Rings	T3	Simple Life
+	4RP	Moon	T1	Multi Cellular
+
+24RP	Gas Planet	Uninhabitable	No Life
+	7RP	Moon	T1	No Life
+	3RP	Rings	T3	Organic Compounds
+
+10RP	Asteroid Belt	T3	Simple Life
+	10RP	Artificial Body	T1	Single Cellular
+
+4RP	Gas Planet	T3	Organic Compounds
+	7RP	Moon	T3	Complex Life
+
+7RP	Gas Planet	T1	No Life
+	3RP	Gas Cloud	T3	No Life
+
+
+
+Hex: 8, 7 	 Total Resources: 71
+Red Dwarf 	Newborn 	Normal Radiation 
+0RP	Blackhole	Uninhabitable	No Life
+	4RP	Moon	T1	No Life
+
+20RP	Comet	Uninhabitable	No Life
+27RP	Sub Star	Uninhabitable	No Life
+	13RP	Moon	T1	Complex Life
+	7RP	Moon	T2	Complex Life
+
+
+
+Hex: 8, 8 	 Total Resources: 77
+White Giant 	Midlife 	Extreme Radiation 
+22RP	Gas Planet	Uninhabitable	No Life
+	7RP	Rings	T2	Multi Cellular
+	13RP	Gas Cloud	T5	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	6RP	Rings	T3	Organic Compounds
+	16RP	Moon	T5	Multi Cellular
+
+6RP	Asteroid Belt	T3	Complex Life
+	7RP	Rings	T3	Single Cellular
+
+
+
+Hex: 8, 9 	 Total Resources: 0
+
+Hex: 8, 10 	 Total Resources: 0
+
+Hex: 8, 11 	 Total Resources: 53
+Red Giant 	End Of Life 	High Radiation 
+3RP	Gas Planet	T2	Organic Compounds
+	9RP	Moon	T5	Single Cellular
+	8RP	Artificial Body	T2	No Life
+
+12RP	Terrestrial Planet	T2	Simple Life
+	10RP	Moon	T3	Multi Cellular
+	11RP	Artificial Body	T2	Multi Cellular
+
+
+
+Hex: 8, 12 	 Total Resources: 113
+Neutron Star 	Newborn 	Normal Radiation 
+7RP	Artificial Planet	T4	Multi Cellular
+	10RP	Moon	T1	Organic Compounds
+
+5RP	Gas Planet	T4	Single Cellular
+	13RP	Rings	T5	Complex Life
+	6RP	Rings	T3	Complex Life
+	9RP	Moon	T1	Simple Life
+	4RP	Rings	T1	Complex Life
+	1RP	Rings	T3	Complex Life
+
+1RP	Asteroid Belt	T3	Complex Life
+	7RP	Moon	T2	Single Cellular
+
+12RP	Gas Planet	T5	No Life
+	10RP	Gas Cloud	T3	No Life
+	4RP	Moon	T3	Sentient Life
+		TL7 Space Age	Capitalist Warmonger Scientist 	Aquatic 
+
+	11RP	Rings	T5	No Life
+	8RP	Moon	T2	No Life
+	5RP	Artificial Body	T4	Multi Cellular
+
+
+
+Hex: 8, 13 	 Total Resources: 15
+Red Dwarf 	Midlife 	Extreme Radiation 
+15RP	Comet	Uninhabitable	No Life
+
+
+Hex: 8, 14 	 Total Resources: 67
+Brown Normal 	End Of Life 	Extreme Radiation 
+
+White Giant 	Midlife 	High Radiation 
+
+Brown Normal 	Midlife 	Low Radiation 
+9RP	Terrestrial Planet	T3	Simple Life
+	12RP	Moon	T5	Complex Life
+
+24RP	Terrestrial Planet	Uninhabitable	No Life
+	2RP	Gas Cloud	T3	No Life
+
+11RP	Terrestrial Planet	T1	Complex Life
+	9RP	Artificial Body	T1	Multi Cellular
+
+
+
+Hex: 9, 0 	 Total Resources: 88
+Brown Normal 	Midlife 	Normal Radiation 
+1RP	Terrestrial Planet	T3	Multi Cellular
+	3RP	Moon	T3	Simple Life
+	1RP	Moon	T3	Single Cellular
+	4RP	Moon	T4	Sentient Life
+		TL5 Industrial Revolution	Theocratic Communist Philosophical 	Avian 
+
+	15RP	Rings	T5	Complex Life
+
+7RP	Terrestrial Planet	T3	Simple Life
+	7RP	Moon	T1	No Life
+
+20RP	Comet	Uninhabitable	No Life
+5RP	Terrestrial Planet	T3	Simple Life
+	7RP	Moon	T2	Complex Life
+
+5RP	Terrestrial Planet	T3	Simple Life
+	13RP	Moon	T1	Multi Cellular
+
+
+
+Hex: 9, 1 	 Total Resources: 108
+Red Normal 	Midlife 	High Radiation 
+9RP	Terrestrial Planet	T2	Multi Cellular
+	19RP	Moon	Uninhabitable	No Life
+
+23RP	Sub Star	Uninhabitable	No Life
+	8RP	Rings	T1	Organic Compounds
+
+17RP	Terrestrial Planet	T5	Multi Cellular
+	8RP	Rings	T1	Organic Compounds
+	24RP	Rings	Uninhabitable	No Life
+
+
+
+Hex: 9, 2 	 Total Resources: 46
+White Normal 	Midlife 	Extreme Radiation 
+10RP	Gas Planet	T3	Single Cellular
+	9RP	Rings	T5	Single Cellular
+
+16RP	Terrestrial Planet	Uninhabitable	No Life
+	11RP	Rings	T2	Simple Life
+
+
+
+Hex: 9, 3 	 Total Resources: 0
+
+Hex: 9, 4 	 Total Resources: 0
+White Giant 	Midlife 	Low Radiation 
+
+
+Hex: 9, 5 	 Total Resources: 58
+Red Normal 	End Of Life 	Low Radiation 
+5RP	Terrestrial Planet	T4	Multi Cellular
+	17RP	Rings	Uninhabitable	No Life
+
+10RP	Terrestrial Planet	T2	Multi Cellular
+	8RP	Moon	T5	Simple Life
+
+10RP	Gas Planet	T2	Multi Cellular
+	8RP	Moon	T5	Complex Life
+
+
+
+Hex: 9, 6 	 Total Resources: 63
+Red Dwarf 	End Of Life 	High Radiation 
+22RP	Comet	Uninhabitable	No Life
+7RP	Terrestrial Planet	T1	No Life
+	6RP	Moon	T1	No Life
+	10RP	Moon	T2	Multi Cellular
+
+1RP	Gas Planet	T3	Single Cellular
+	5RP	Gas Cloud	T2	No Life
+	12RP	Moon	T1	Simple Life
+
+
+
+Hex: 9, 7 	 Total Resources: 40
+White Dwarf 	Midlife 	Extreme Radiation 
+9RP	Gas Planet	T4	Multi Cellular
+	3RP	Moon	T2	Multi Cellular
+	4RP	Moon	T1	Multi Cellular
+	1RP	Gas Cloud	T4	No Life
+
+19RP	Comet	Uninhabitable	No Life
+0RP	Blackhole	Uninhabitable	No Life
+	4RP	Moon	T1	Multi Cellular
+
+
+
+Hex: 9, 8 	 Total Resources: 0
+
+Hex: 9, 9 	 Total Resources: 18
+Brown Normal 	Newborn 	Low Radiation 
+10RP	Gas Planet	T1	No Life
+	8RP	Moon	T3	No Life
+
+
+
+Hex: 9, 10 	 Total Resources: 40
+Brown Normal 	End Of Life 	Extreme Radiation 
+8RP	Terrestrial Planet	T4	Simple Life
+	4RP	Rings	T3	Complex Life
+
+15RP	Comet	Uninhabitable	No Life
+3RP	Gas Planet	T4	Complex Life
+	10RP	Moon	T3	Simple Life
+
+
+
+Hex: 9, 11 	 Total Resources: 0
+White Dwarf 	Midlife 	Normal Radiation 
+
+
+Hex: 9, 12 	 Total Resources: 63
+White Normal 	Midlife 	High Radiation 
+11RP	Artificial Planet	T5	Simple Life
+	9RP	Rings	T3	Simple Life
+	6RP	Moon	T2	Simple Life
+
+16RP	Comet	Uninhabitable	No Life
+6RP	Gas Planet	T3	Multi Cellular
+	15RP	Gas Cloud	Uninhabitable	No Life
+
+
+
+Hex: 9, 13 	 Total Resources: 24
+Blackhole 	End Of Life 	Extreme Radiation 
+7RP	Gas Planet	T2	Multi Cellular
+	17RP	Moon	T5	Simple Life
+
+
+
+Hex: 9, 14 	 Total Resources: 65
+Brown Drawf 	End Of Life 	Low Radiation 
+5RP	Asteroid Belt	T4	No Life
+	11RP	Gas Cloud	T2	No Life
+
+5RP	Artificial Planet	T3	Complex Life
+	3RP	Gas Cloud	T3	No Life
+	11RP	Moon	T1	Organic Compounds
+
+19RP	Sub Star	Uninhabitable	No Life
+	11RP	Rings	T1	Multi Cellular
+
+
+
+Hex: 10, 0 	 Total Resources: 107
+Blackhole 	Midlife 	High Radiation 
+4RP	Gas Planet	T3	Organic Compounds
+	11RP	Moon	T2	Multi Cellular
+	22RP	Moon	Uninhabitable	No Life
+
+14RP	Terrestrial Planet	T5	Complex Life
+	10RP	Gas Cloud	T4	No Life
+	5RP	Moon	T1	No Life
+
+21RP	Asteroid Belt	Uninhabitable	No Life
+	8RP	Rings	T3	Complex Life
+	12RP	Gas Cloud	T5	No Life
+
+
+
+Hex: 10, 1 	 Total Resources: 125
+White Dwarf 	Midlife 	Low Radiation 
+11RP	Asteroid Belt	T5	Simple Life
+	9RP	Gas Cloud	T5	No Life
+	3RP	Moon	T3	Complex Life
+
+6RP	Asteroid Belt	T5	Single Cellular
+	13RP	Rings	T1	No Life
+
+24RP	Sub Star	Uninhabitable	No Life
+	2RP	Gas Cloud	T2	No Life
+	3RP	Rings	T4	No Life
+	4RP	Moon	T4	Complex Life
+	6RP	Rings	T3	Single Cellular
+	13RP	Rings	T1	Simple Life
+	6RP	Gas Cloud	T4	No Life
+	5RP	Gas Cloud	T3	No Life
+	5RP	Gas Cloud	T4	No Life
+
+8RP	Gas Planet	T5	Multi Cellular
+	7RP	Gas Cloud	T1	No Life
+
+
+
+Hex: 10, 2 	 Total Resources: 0
+
+Hex: 10, 3 	 Total Resources: 55
+Neutron Star 	Newborn 	Normal Radiation 
+24RP	Comet	Uninhabitable	No Life
+10RP	Asteroid Belt	T2	No Life
+	4RP	Rings	T3	Single Cellular
+
+17RP	Comet	Uninhabitable	No Life
+
+
+Hex: 10, 4 	 Total Resources: 170
+White Dwarf 	Midlife 	High Radiation 
+7RP	Terrestrial Planet	T3	Simple Life
+	2RP	Moon	T3	Simple Life
+	3RP	Moon	T2	Organic Compounds
+	10RP	Moon	T4	Complex Life
+
+14RP	Asteroid Belt	T5	Multi Cellular
+	11RP	Moon	T5	Complex Life
+	18RP	Artificial Body	T5	Complex Life
+	8RP	Rings	T3	Complex Life
+	21RP	Moon	Uninhabitable	No Life
+
+12RP	Asteroid Belt	T5	Complex Life
+	10RP	Moon	T5	Complex Life
+	3RP	Moon	T4	Complex Life
+	3RP	Moon	T3	Multi Cellular
+	3RP	Moon	T2	Single Cellular
+	3RP	Rings	T3	Complex Life
+	17RP	Moon	T5	Simple Life
+	7RP	Moon	T1	No Life
+	2RP	Moon	T1	Multi Cellular
+
+8RP	Terrestrial Planet	T2	Single Cellular
+	8RP	Gas Cloud	T3	No Life
+
+
+
+Hex: 10, 5 	 Total Resources: 114
+Red Dwarf 	Midlife 	High Radiation 
+2RP	Asteroid Belt	T3	No Life
+	11RP	Artificial Body	T5	Complex Life
+	13RP	Gas Cloud	T1	No Life
+
+5RP	Terrestrial Planet	T1	Multi Cellular
+	10RP	Gas Cloud	T2	No Life
+
+7RP	Terrestrial Planet	T3	Simple Life
+	14RP	Rings	T5	Simple Life
+	5RP	Moon	T2	Multi Cellular
+	23RP	Rings	Uninhabitable	No Life
+	16RP	Moon	T5	Sentient Life
+		TL5 Industrial Revolution	Warmonger Theocratic Corporate 	Mammal 
+
+	8RP	Moon	T1	Multi Cellular
+
+
+
+Hex: 10, 6 	 Total Resources: 102
+Brown Normal 	Midlife 	Normal Radiation 
+14RP	Sub Star	Uninhabitable	No Life
+	4RP	Moon	T4	Multi Cellular
+	5RP	Rings	T3	Simple Life
+
+9RP	Asteroid Belt	T5	Single Cellular
+	10RP	Moon	T3	Complex Life
+
+12RP	Terrestrial Planet	T5	Multi Cellular
+	1RP	Moon	T3	Complex Life
+	10RP	Moon	T1	Multi Cellular
+
+9RP	Gas Planet	T2	Simple Life
+	8RP	Rings	T5	Complex Life
+
+2RP	Gas Planet	T3	Single Cellular
+	7RP	Moon	T2	Organic Compounds
+	1RP	Moon	T3	Complex Life
+	4RP	Rings	T3	No Life
+	4RP	Moon	T3	Complex Life
+	1RP	Gas Cloud	T3	No Life
+	1RP	Artificial Body	T4	Organic Compounds
+
+
+
+Hex: 10, 7 	 Total Resources: 44
+Red Dwarf 	Newborn 	Low Radiation 
+25RP	Terrestrial Planet	Uninhabitable	No Life
+	10RP	Moon	T1	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	9RP	Moon	T3	Complex Life
+
+
+
+Hex: 10, 8 	 Total Resources: 41
+Blackhole 	Newborn 	Extreme Radiation 
+3RP	Terrestrial Planet	T2	Multi Cellular
+	9RP	Moon	T3	No Life
+	6RP	Gas Cloud	T3	No Life
+
+6RP	Gas Planet	T3	No Life
+	10RP	Moon	T5	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	6RP	Artificial Body	T1	No Life
+	1RP	Rings	T4	Simple Life
+
+
+
+Hex: 10, 9 	 Total Resources: 62
+Blackhole 	Midlife 	Low Radiation 
+11RP	Terrestrial Planet	T2	Organic Compounds
+	9RP	Rings	T4	Multi Cellular
+
+0RP	Blackhole	Uninhabitable	No Life
+	5RP	Moon	T4	Organic Compounds
+	11RP	Artificial Body	T5	Single Cellular
+
+10RP	Gas Planet	T2	Complex Life
+	10RP	Gas Cloud	T3	No Life
+
+5RP	Terrestrial Planet	T3	Simple Life
+	1RP	Rings	T4	Complex Life
+
+
+
+Hex: 10, 10 	 Total Resources: 85
+Brown Normal 	Midlife 	Extreme Radiation 
+2RP	Artificial Planet	T3	Multi Cellular
+	4RP	Moon	T3	Multi Cellular
+
+10RP	Terrestrial Planet	T4	Complex Life
+	15RP	Moon	T5	Complex Life
+
+17RP	Comet	Uninhabitable	No Life
+7RP	Gas Planet	T3	Single Cellular
+	9RP	Gas Cloud	T4	No Life
+
+21RP	Comet	Uninhabitable	No Life
+
+
+Hex: 10, 11 	 Total Resources: 10
+Neutron Star 	Midlife 	High Radiation 
+1RP	Terrestrial Planet	T3	Organic Compounds
+	7RP	Rings	T4	Complex Life
+	2RP	Rings	T3	Simple Life
+
+
+
+Hex: 10, 12 	 Total Resources: 78
+Red Dwarf 	Midlife 	High Radiation 
+6RP	Terrestrial Planet	T4	No Life
+	1RP	Rings	T3	Simple Life
+
+8RP	Terrestrial Planet	T2	Simple Life
+	3RP	Moon	T4	Single Cellular
+
+8RP	Terrestrial Planet	T4	Simple Life
+	4RP	Moon	T2	Single Cellular
+
+8RP	Gas Planet	T3	Organic Compounds
+	12RP	Artificial Body	T2	Multi Cellular
+
+9RP	Gas Planet	T1	No Life
+	5RP	Gas Cloud	T4	No Life
+
+6RP	Gas Planet	T2	Multi Cellular
+	3RP	Moon	T3	Multi Cellular
+	5RP	Moon	T3	Complex Life
+
+
+
+Hex: 10, 13 	 Total Resources: 0
+
+Hex: 10, 14 	 Total Resources: 0
+
+Hex: 11, 0 	 Total Resources: 0
+
+Hex: 11, 1 	 Total Resources: 65
+Red Normal 	Midlife 	Normal Radiation 
+9RP	Terrestrial Planet	T4	Complex Life
+	9RP	Moon	T3	Simple Life
+	3RP	Rings	T3	No Life
+
+8RP	Terrestrial Planet	T4	Simple Life
+	3RP	Moon	T3	Simple Life
+
+2RP	Gas Planet	T1	Organic Compounds
+	10RP	Rings	T2	Single Cellular
+	2RP	Gas Cloud	T3	No Life
+
+19RP	Comet	Uninhabitable	No Life
+
+
+Hex: 11, 2 	 Total Resources: 0
+Neutron Star 	Midlife 	High Radiation 
+
+
+Hex: 11, 3 	 Total Resources: 81
+Brown Normal 	Newborn 	Extreme Radiation 
+19RP	Gas Planet	Uninhabitable	No Life
+	9RP	Rings	T2	Multi Cellular
+
+0RP	Blackhole	Uninhabitable	No Life
+	3RP	Rings	T3	Simple Life
+	11RP	Rings	T2	Single Cellular
+	5RP	Rings	T3	Complex Life
+	10RP	Rings	T4	Single Cellular
+
+3RP	Gas Planet	T4	Simple Life
+	10RP	Rings	T4	Organic Compounds
+
+3RP	Gas Planet	T4	Simple Life
+	8RP	Rings	T4	Complex Life
+
+
+
+Hex: 11, 4 	 Total Resources: 111
+Red Giant 	Midlife 	High Radiation 
+7RP	Terrestrial Planet	T3	Simple Life
+	1RP	Artificial Body	T4	Simple Life
+	11RP	Moon	T2	Simple Life
+
+7RP	Terrestrial Planet	T4	Organic Compounds
+	15RP	Rings	T5	Simple Life
+	9RP	Moon	T3	Complex Life
+
+
+Neutron Star 	Midlife 	Extreme Radiation 
+5RP	Artificial Planet	T2	No Life
+	10RP	Rings	T5	Simple Life
+
+13RP	Gas Planet	Uninhabitable	No Life
+	16RP	Rings	T5	No Life
+
+8RP	Asteroid Belt	T2	Simple Life
+	9RP	Moon	T5	Simple Life
+
+
+
+Hex: 11, 5 	 Total Resources: 0
+
+Hex: 11, 6 	 Total Resources: 0
+
+Hex: 11, 7 	 Total Resources: 114
+Neutron Star 	Midlife 	Normal Radiation 
+8RP	Gas Planet	T3	Single Cellular
+	8RP	Moon	T3	Complex Life
+
+17RP	Comet	Uninhabitable	No Life
+18RP	Sub Star	Uninhabitable	No Life
+	9RP	Moon	T4	Complex Life
+
+21RP	Gas Planet	Uninhabitable	No Life
+	14RP	Moon	T5	Organic Compounds
+
+19RP	Comet	Uninhabitable	No Life
+
+
+Hex: 11, 8 	 Total Resources: 0
+
+Hex: 11, 9 	 Total Resources: 114
+Blackhole 	Newborn 	Low Radiation 
+3RP	Asteroid Belt	T1	Single Cellular
+	9RP	Moon	T3	Complex Life
+	5RP	Rings	T3	Simple Life
+	2RP	Moon	T3	No Life
+	1RP	Moon	T4	Simple Life
+	7RP	Rings	T1	No Life
+	4RP	Moon	T1	Multi Cellular
+
+9RP	Asteroid Belt	T4	Simple Life
+	11RP	Moon	T1	Simple Life
+
+7RP	Gas Planet	T3	Simple Life
+	1RP	Rings	T3	Simple Life
+
+7RP	Gas Planet	T2	Multi Cellular
+	11RP	Artificial Body	T5	Complex Life
+
+
+Brown Drawf 	Midlife 	Low Radiation 
+9RP	Terrestrial Planet	T5	Simple Life
+	3RP	Moon	T3	Simple Life
+	11RP	Rings	T5	Organic Compounds
+	9RP	Rings	T4	Complex Life
+	5RP	Moon	T2	Multi Cellular
+
+
+Brown Drawf 	Midlife 	Low Radiation 
+
+
+Hex: 11, 10 	 Total Resources: 52
+White Dwarf 	Midlife 	Low Radiation 
+8RP	Asteroid Belt	T2	Multi Cellular
+	7RP	Rings	T4	Complex Life
+
+8RP	Asteroid Belt	T4	Simple Life
+	5RP	Rings	T4	Single Cellular
+	7RP	Rings	T5	No Life
+
+3RP	Gas Planet	T3	Complex Life
+	10RP	Moon	T5	Single Cellular
+	4RP	Moon	T1	Single Cellular
+
+
+
+Hex: 11, 11 	 Total Resources: 67
+White Giant 	Midlife 	High Radiation 
+10RP	Gas Planet	T4	Organic Compounds
+	9RP	Moon	T5	Simple Life
+	13RP	Gas Cloud	T1	No Life
+	7RP	Rings	T2	Multi Cellular
+	3RP	Moon	T3	Simple Life
+
+8RP	Asteroid Belt	T4	Complex Life
+	9RP	Moon	T3	Complex Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	6RP	Moon	T4	Complex Life
+	2RP	Artificial Body	T3	Complex Life
+
+
+
+Hex: 11, 12 	 Total Resources: 26
+Brown Drawf 	Midlife 	Extreme Radiation 
+20RP	Gas Planet	Uninhabitable	No Life
+	6RP	Moon	T4	Complex Life
+
+
+
+Hex: 11, 13 	 Total Resources: 0
+White Normal 	End Of Life 	Normal Radiation 
+
+
+Hex: 11, 14 	 Total Resources: 63
+White Giant 	Newborn 	Low Radiation 
+10RP	Asteroid Belt	T3	Complex Life
+	14RP	Moon	T5	Multi Cellular
+
+4RP	Terrestrial Planet	T2	Multi Cellular
+	5RP	Moon	T3	Simple Life
+
+2RP	Terrestrial Planet	T3	Organic Compounds
+	2RP	Rings	T3	Multi Cellular
+	4RP	Moon	T4	Single Cellular
+
+15RP	Terrestrial Planet	T5	Sentient Life
+		TL2 Stone Age	Imperialist Explorer Philosophical 	Avian 
+	7RP	Moon	T3	Single Cellular
+
+
+
+Hex: 12, 0 	 Total Resources: 75
+Brown Drawf 	Midlife 	Extreme Radiation 
+9RP	Gas Planet	T3	Multi Cellular
+	18RP	Rings	Uninhabitable	No Life
+	20RP	Moon	Uninhabitable	No Life
+	16RP	Moon	Uninhabitable	No Life
+	4RP	Artificial Body	T2	Single Cellular
+	5RP	Moon	T3	Simple Life
+
+1RP	Asteroid Belt	T3	Simple Life
+	2RP	Artificial Body	T4	Complex Life
+
+
+
+Hex: 12, 1 	 Total Resources: 62
+Brown Normal 	Midlife 	Low Radiation 
+8RP	Gas Planet	T2	No Life
+	5RP	Rings	T3	Complex Life
+
+4RP	Asteroid Belt	T1	No Life
+	4RP	Rings	T3	Complex Life
+	8RP	Rings	T3	Complex Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	3RP	Artificial Body	T4	Complex Life
+	8RP	Moon	T4	Simple Life
+
+22RP	Comet	Uninhabitable	No Life
+
+
+Hex: 12, 2 	 Total Resources: 73
+Brown Drawf 	Newborn 	High Radiation 
+27RP	Comet	Uninhabitable	No Life
+15RP	Terrestrial Planet	T5	Complex Life
+	9RP	Moon	T1	Simple Life
+	9RP	Moon	T2	Multi Cellular
+
+0RP	Blackhole	Uninhabitable	No Life
+	6RP	Rings	T3	Complex Life
+	7RP	Rings	T4	Simple Life
+
+
+
+Hex: 12, 3 	 Total Resources: 62
+Blackhole 	Midlife 	Low Radiation 
+17RP	Terrestrial Planet	T5	Single Cellular
+	6RP	Rings	T3	Complex Life
+	3RP	Gas Cloud	T3	No Life
+
+21RP	Terrestrial Planet	Uninhabitable	No Life
+	2RP	Moon	T3	Single Cellular
+
+0RP	Blackhole	Uninhabitable	No Life
+	9RP	Gas Cloud	T2	No Life
+
+3RP	Terrestrial Planet	T3	Complex Life
+	1RP	Rings	T3	Simple Life
+
+
+
+Hex: 12, 4 	 Total Resources: 91
+Red Dwarf 	Newborn 	Extreme Radiation 
+9RP	Gas Planet	T1	Multi Cellular
+	8RP	Moon	T3	Multi Cellular
+
+1RP	Terrestrial Planet	T4	Complex Life
+	18RP	Moon	T5	Complex Life
+	5RP	Moon	T2	Simple Life
+	9RP	Gas Cloud	T3	No Life
+	6RP	Moon	T3	Sentient Life
+		TL5 Industrial Revolution	Capitalist Explorer Philosophical 	Aquatic 
+
+
+8RP	Terrestrial Planet	T3	Simple Life
+	12RP	Moon	T2	Simple Life
+	4RP	Moon	T3	Simple Life
+	2RP	Gas Cloud	T4	No Life
+	9RP	Moon	T2	Multi Cellular
+
+
+
+Hex: 12, 5 	 Total Resources: 85
+White Dwarf 	Midlife 	Low Radiation 
+4RP	Gas Planet	T3	Simple Life
+	7RP	Moon	T5	Complex Life
+
+2RP	Gas Planet	T3	Single Cellular
+	2RP	Rings	T3	Complex Life
+
+17RP	Sub Star	Uninhabitable	No Life
+	4RP	Rings	T1	Simple Life
+
+23RP	Asteroid Belt	Uninhabitable	No Life
+	3RP	Moon	T1	No Life
+	8RP	Moon	T3	Organic Compounds
+
+4RP	Terrestrial Planet	T3	Complex Life
+	2RP	Gas Cloud	T3	No Life
+	9RP	Moon	T2	Multi Cellular
+
+
+
+Hex: 12, 6 	 Total Resources: 0
+
+Hex: 12, 7 	 Total Resources: 0
+
+Hex: 12, 8 	 Total Resources: 22
+Brown Drawf 	Midlife 	Extreme Radiation 
+15RP	Terrestrial Planet	T1	Multi Cellular
+	7RP	Rings	T3	Complex Life
+
+
+
+Hex: 12, 9 	 Total Resources: 61
+Blackhole 	End Of Life 	High Radiation 
+8RP	Gas Planet	T3	Single Cellular
+	3RP	Moon	T3	Complex Life
+	26RP	Moon	Uninhabitable	No Life
+
+16RP	Gas Planet	T5	Multi Cellular
+	8RP	Moon	T3	Complex Life
+
+
+
+Hex: 12, 10 	 Total Resources: 0
+
+Hex: 12, 11 	 Total Resources: 62
+White Giant 	End Of Life 	High Radiation 
+21RP	Sub Star	Uninhabitable	No Life
+	3RP	Moon	T3	Organic Compounds
+	11RP	Artificial Body	T1	Single Cellular
+
+9RP	Gas Planet	T5	Simple Life
+	18RP	Artificial Body	Uninhabitable	No Life
+
+
+
+Hex: 12, 12 	 Total Resources: 49
+White Normal 	Midlife 	High Radiation 
+10RP	Gas Planet	T3	Simple Life
+	1RP	Moon	T3	Complex Life
+
+10RP	Gas Planet	T1	Multi Cellular
+	9RP	Moon	T2	Simple Life
+
+6RP	Terrestrial Planet	T3	Sentient Life
+	TL1 Cavemen	Theocratic Scientist Explorer 	Energy 
+
+	10RP	Rings	T3	Simple Life
+
+2RP	Gas Planet	T2	Complex Life
+	1RP	Moon	T3	No Life
+
+
+
+Hex: 12, 13 	 Total Resources: 21
+Brown Normal 	Newborn 	High Radiation 
+21RP	Comet	Uninhabitable	No Life
+
+
+Hex: 12, 14 	 Total Resources: 17
+Blackhole 	Midlife 	High Radiation 
+4RP	Terrestrial Planet	T2	Simple Life
+	2RP	Rings	T4	Complex Life
+
+8RP	Gas Planet	T4	Single Cellular
+	3RP	Gas Cloud	T3	No Life
+
+
+
+Hex: 13, 0 	 Total Resources: 22
+White Normal 	End Of Life 	Normal Radiation 
+22RP	Comet	Uninhabitable	No Life
+
+
+Hex: 13, 1 	 Total Resources: 101
+Blackhole 	Midlife 	Extreme Radiation 
+7RP	Terrestrial Planet	T3	Complex Life
+	7RP	Gas Cloud	T3	No Life
+
+8RP	Gas Planet	T5	No Life
+	7RP	Gas Cloud	T4	No Life
+	5RP	Moon	T3	Complex Life
+
+10RP	Terrestrial Planet	T5	Simple Life
+	9RP	Rings	T5	Simple Life
+	4RP	Rings	T3	Complex Life
+	10RP	Rings	T3	Single Cellular
+	8RP	Gas Cloud	T1	No Life
+	4RP	Rings	T3	Complex Life
+
+6RP	Asteroid Belt	T4	Multi Cellular
+	1RP	Artificial Body	T3	Multi Cellular
+
+0RP	Blackhole	Uninhabitable	No Life
+	11RP	Gas Cloud	T5	No Life
+	4RP	Rings	T1	Multi Cellular
+
+
+
+Hex: 13, 2 	 Total Resources: 144
+Red Giant 	Midlife 	High Radiation 
+6RP	Terrestrial Planet	T3	Simple Life
+	8RP	Moon	T1	No Life
+	9RP	Rings	T5	Simple Life
+	11RP	Moon	T2	Multi Cellular
+	7RP	Gas Cloud	T5	No Life
+
+2RP	Asteroid Belt	T2	Complex Life
+	6RP	Moon	T4	Simple Life
+	4RP	Rings	T3	No Life
+	8RP	Rings	T4	Simple Life
+	9RP	Moon	T3	Simple Life
+
+19RP	Sub Star	Uninhabitable	No Life
+	14RP	Gas Cloud	T5	No Life
+
+9RP	Gas Planet	T1	Single Cellular
+	13RP	Moon	T5	Simple Life
+
+19RP	Comet	Uninhabitable	No Life
+
+
+Hex: 13, 3 	 Total Resources: 30
+Red Giant 	Midlife 	Normal Radiation 
+10RP	Gas Planet	T2	No Life
+	12RP	Gas Cloud	T5	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	8RP	Moon	T5	Simple Life
+
+
+
+Hex: 13, 4 	 Total Resources: 20
+Blackhole 	Midlife 	High Radiation 
+0RP	Blackhole	Uninhabitable	No Life
+	3RP	Moon	T2	Multi Cellular
+	5RP	Moon	T2	Multi Cellular
+
+7RP	Gas Planet	T4	Single Cellular
+	5RP	Rings	T4	Simple Life
+
+
+
+Hex: 13, 5 	 Total Resources: 0
+
+Hex: 13, 6 	 Total Resources: 82
+Neutron Star 	End Of Life 	Normal Radiation 
+1RP	Gas Planet	T3	Simple Life
+	5RP	Rings	T3	Complex Life
+	6RP	Rings	T4	Complex Life
+
+11RP	Terrestrial Planet	T5	Complex Life
+	5RP	Gas Cloud	T2	No Life
+
+23RP	Sub Star	Uninhabitable	No Life
+	14RP	Moon	T1	Multi Cellular
+
+6RP	Asteroid Belt	T4	Complex Life
+	5RP	Moon	T3	Sentient Life
+		TL3 Bronze Age	Capitalist Theocratic Corporate 	Mammal 
+
+	6RP	Artificial Body	T3	Complex Life
+
+
+
+Hex: 13, 7 	 Total Resources: 27
+Red Normal 	Midlife 	High Radiation 
+0RP	Blackhole	Uninhabitable	No Life
+	11RP	Moon	T2	Simple Life
+	7RP	Moon	T2	Complex Life
+	9RP	Rings	T5	Sentient Life
+		TL8 Digital Age	Warmonger Explorer Imperialist 	Aquatic 
+		TL3 Bronze Age	Scientist Philosophical Theocratic 	Reptillian 
+
+
+
+
+Hex: 13, 8 	 Total Resources: 94
+Red Dwarf 	End Of Life 	Normal Radiation 
+19RP	Comet	Uninhabitable	No Life
+30RP	Terrestrial Planet	Uninhabitable	No Life
+	6RP	Moon	T2	No Life
+
+2RP	Artificial Planet	T3	Complex Life
+	6RP	Rings	T3	Complex Life
+
+10RP	Asteroid Belt	T5	No Life
+	4RP	Moon	T2	Multi Cellular
+	5RP	Moon	T3	Complex Life
+
+7RP	Gas Planet	T2	No Life
+	5RP	Moon	T2	Multi Cellular
+
+
+
+Hex: 13, 9 	 Total Resources: 83
+White Giant 	End Of Life 	Low Radiation 
+25RP	Sub Star	Uninhabitable	No Life
+	5RP	Rings	T3	Multi Cellular
+	6RP	Rings	T4	Organic Compounds
+	8RP	Moon	T2	Multi Cellular
+	9RP	Moon	T3	Multi Cellular
+
+6RP	Gas Planet	T1	Multi Cellular
+	9RP	Moon	T3	Organic Compounds
+	1RP	Rings	T4	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	6RP	Rings	T3	No Life
+	2RP	Moon	T3	Single Cellular
+
+3RP	Artificial Planet	T2	Multi Cellular
+	3RP	Rings	T3	Multi Cellular
+
+
+
+Hex: 13, 10 	 Total Resources: 14
+Red Normal 	Midlife 	Normal Radiation 
+4RP	Terrestrial Planet	T3	Complex Life
+	10RP	Moon	T4	Complex Life
+
+
+
+Hex: 13, 11 	 Total Resources: 0
+Red Dwarf 	Newborn 	Normal Radiation 
+
+
+Hex: 13, 12 	 Total Resources: 63
+Brown Drawf 	Midlife 	Low Radiation 
+1RP	Gas Planet	T4	Single Cellular
+	5RP	Rings	T4	Simple Life
+
+20RP	Comet	Uninhabitable	No Life
+6RP	Terrestrial Planet	T3	Complex Life
+	23RP	Rings	Uninhabitable	No Life
+	8RP	Moon	T5	Simple Life
+
+
+
+Hex: 13, 13 	 Total Resources: 0
+Blackhole 	Midlife 	High Radiation 
+
+
+Hex: 13, 14 	 Total Resources: 41
+White Normal 	End Of Life 	Normal Radiation 
+4RP	Terrestrial Planet	T3	Simple Life
+	7RP	Rings	T1	Multi Cellular
+
+27RP	Asteroid Belt	Uninhabitable	No Life
+	3RP	Moon	T3	Single Cellular
+
+
+
+Hex: 14, 0 	 Total Resources: 79
+White Normal 	Midlife 	High Radiation 
+7RP	Terrestrial Planet	T5	Multi Cellular
+	21RP	Rings	Uninhabitable	No Life
+
+9RP	Asteroid Belt	T3	Complex Life
+	6RP	Rings	T4	No Life
+	6RP	Gas Cloud	T5	No Life
+
+15RP	Gas Planet	Uninhabitable	No Life
+	8RP	Moon	T4	No Life
+	7RP	Gas Cloud	T4	No Life
+
+
+
+Hex: 14, 1 	 Total Resources: 17
+Neutron Star 	Newborn 	High Radiation 
+0RP	Blackhole	Uninhabitable	No Life
+	4RP	Moon	T4	Complex Life
+
+7RP	Gas Planet	T3	Simple Life
+	6RP	Rings	T3	Complex Life
+
+
+
+Hex: 14, 2 	 Total Resources: 77
+Red Normal 	Newborn 	Low Radiation 
+8RP	Terrestrial Planet	T3	Simple Life
+	10RP	Gas Cloud	T5	No Life
+
+24RP	Comet	Uninhabitable	No Life
+16RP	Terrestrial Planet	Uninhabitable	No Life
+	12RP	Gas Cloud	T1	No Life
+
+3RP	Asteroid Belt	T3	No Life
+	4RP	Moon	T1	Multi Cellular
+
+
+
+Hex: 14, 3 	 Total Resources: 52
+Red Dwarf 	End Of Life 	Normal Radiation 
+11RP	Artificial Planet	T1	Multi Cellular
+	6RP	Moon	T3	Complex Life
+	6RP	Moon	T5	Complex Life
+	16RP	Moon	T5	Single Cellular
+	13RP	Rings	T1	Multi Cellular
+
+
+
+Hex: 14, 4 	 Total Resources: 31
+Neutron Star 	Midlife 	Low Radiation 
+10RP	Gas Planet	T1	Multi Cellular
+	9RP	Moon	T3	Complex Life
+
+7RP	Gas Planet	T3	Multi Cellular
+	5RP	Moon	T1	Single Cellular
+
+
+
+Hex: 14, 5 	 Total Resources: 0
+Neutron Star 	Midlife 	Normal Radiation 
+
+
+Hex: 14, 6 	 Total Resources: 102
+Blackhole 	Newborn 	Low Radiation 
+23RP	Sub Star	Uninhabitable	No Life
+	9RP	Rings	T3	No Life
+	13RP	Rings	T2	Simple Life
+
+
+Red Giant 	Midlife 	Low Radiation 
+6RP	Terrestrial Planet	T3	Single Cellular
+	11RP	Rings	T5	Complex Life
+	7RP	Moon	T3	Simple Life
+
+12RP	Gas Planet	T2	Single Cellular
+	7RP	Rings	T4	Organic Compounds
+
+0RP	Blackhole	Uninhabitable	No Life
+	7RP	Rings	T3	Complex Life
+
+5RP	Gas Planet	T4	Single Cellular
+	2RP	Gas Cloud	T4	No Life
+
+
+Red Giant 	End Of Life 	Normal Radiation 
+
+
+Hex: 14, 7 	 Total Resources: 45
+White Giant 	Midlife 	Low Radiation 
+7RP	Asteroid Belt	T4	Multi Cellular
+	12RP	Moon	T5	Simple Life
+
+19RP	Sub Star	Uninhabitable	No Life
+	7RP	Rings	T4	Complex Life
+
+
+
+Hex: 14, 8 	 Total Resources: 80
+Red Dwarf 	Midlife 	Low Radiation 
+14RP	Gas Planet	T5	Multi Cellular
+	8RP	Gas Cloud	T5	No Life
+
+0RP	Blackhole	Uninhabitable	No Life
+	5RP	Moon	T3	Single Cellular
+
+17RP	Sub Star	Uninhabitable	No Life
+	7RP	Gas Cloud	T4	No Life
+
+12RP	Asteroid Belt	T5	Complex Life
+	3RP	Moon	T3	Sentient Life
+		TL3 Bronze Age	Philosophical Imperialist Warmonger 	Aquatic Reptillian 
+
+	1RP	Gas Cloud	T4	No Life
+	10RP	Moon	T2	Multi Cellular
+	1RP	Moon	T3	Simple Life
+	2RP	Moon	T2	Multi Cellular
+
+
+
+Hex: 14, 9 	 Total Resources: 40
+White Normal 	Midlife 	Low Radiation 
+26RP	Comet	Uninhabitable	No Life
+12RP	Terrestrial Planet	T5	Simple Life
+	2RP	Moon	T3	Complex Life
+
+
+
+Hex: 14, 10 	 Total Resources: 0
+
+Hex: 14, 11 	 Total Resources: 53
+Blackhole 	Newborn 	Extreme Radiation 
+4RP	Terrestrial Planet	T3	Simple Life
+	11RP	Moon	T1	Simple Life
+	11RP	Rings	T1	Multi Cellular
+
+7RP	Terrestrial Planet	T4	Complex Life
+	15RP	Gas Cloud	T5	No Life
+	5RP	Rings	T2	Simple Life
+
+
+
+Hex: 14, 12 	 Total Resources: 88
+Neutron Star 	Midlife 	Low Radiation 
+6RP	Asteroid Belt	T2	Simple Life
+	10RP	Rings	T4	Complex Life
+
+7RP	Gas Planet	T3	Single Cellular
+	10RP	Moon	T2	Multi Cellular
+
+4RP	Gas Planet	T3	Multi Cellular
+	21RP	Moon	Uninhabitable	No Life
+
+11RP	Terrestrial Planet	T2	Multi Cellular
+	5RP	Gas Cloud	T3	No Life
+	14RP	Moon	T1	No Life
+
+
+
+Hex: 14, 13 	 Total Resources: 0
+
+Hex: 14, 14 	 Total Resources: 48
+White Giant 	Midlife 	Normal Radiation 
+10RP	Terrestrial Planet	T5	Complex Life
+	5RP	Rings	T2	Simple Life
+	5RP	Rings	T1	Multi Cellular
+
+2RP	Asteroid Belt	T4	Complex Life
+	8RP	Moon	T4	Multi Cellular
+
+10RP	Terrestrial Planet	T2	Multi Cellular
+	8RP	Rings	T1	Multi Cellular
+
+
+

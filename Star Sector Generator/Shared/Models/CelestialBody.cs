@@ -116,10 +116,16 @@ namespace Shared.Models
             }
 
             // Generate Celestial Satellites
-            int numberOfCelestialSatellites = GenerateNumberOfCelestialSatellites(die);
-            for (int i = 0; i < numberOfCelestialSatellites; i++)
+            if (celestialObject.CelestialType == CelestialBodyType.Comet) { }
+            else if (celestialObject.CelestialType == CelestialBodyType.Wormhole) { }
+            //else if (celestialObject.CelestialType == CelestialBodyType.AsteroidBelt) { }
+            else
             {
-                celestialObject.OrbitingSatellites.Add(CelestialSatellite.Generate(die));
+                int numberOfCelestialSatellites = GenerateNumberOfCelestialSatellites(die);
+                for (int i = 0; i < numberOfCelestialSatellites; i++)
+                {
+                    celestialObject.OrbitingSatellites.Add(CelestialSatellite.Generate(die));
+                }
             }
 
             return celestialObject;

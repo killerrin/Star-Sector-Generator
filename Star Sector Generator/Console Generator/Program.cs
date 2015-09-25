@@ -41,28 +41,53 @@ namespace Console_Generator
                     break;
             }
 
+
+            bool generate = true;
+            StarSectorGenerator generator = new StarSectorGenerator(new HexCoordinate(width, height));
+            StarSector sector = new StarSector();
+
             bool loop = true;
             while (loop)
             {
-                Console.Clear();
-
-                // Generate Sector
-                StarSectorGenerator generator = new StarSectorGenerator(new HexCoordinate(width, height));
-                List<List<StarSystem>> sector = generator.Generate();
-
-                foreach (var sectorRow in sector)
+                if (generate)
                 {
-                    foreach (var system in sectorRow)
-                    {
-                        Writer.WriteLine(system.ToString());
-                    }
+                    Console.Clear();
+
+                    // Generate Sector
+                    generator = new StarSectorGenerator(new HexCoordinate(width, height));
+                    sector = generator.Generate();
+                    Writer.WriteLine(sector.ToString());
+
+                    Console.WriteLine("Type 'save xml' to save output to an XML file");
+                    Console.WriteLine("Type 'save txt' to save output to a text file");
+                    Console.WriteLine("Type 'save' to save output to both text and XML files");
+                    Console.WriteLine("Type 'exit' to exit generation");
+                    Console.WriteLine("Otherwise Press enter to regenerate");
                 }
 
                 string read = Console.ReadLine();
                 switch (read.ToLower())
                 {
-                    case "save": break;
-                    case "exit": loop = false; break;
+                    case "save":
+                        StarSector.Save(sector);
+                        StarSector.SaveToString(sector);
+                        generate = false;
+                        break;
+                    case "save xml":
+                        StarSector.Save(sector);
+                        generate = false;
+                        break;
+                    case "save txt":
+                        StarSector.SaveToString(sector);
+                        generate = false;
+                        break;
+                    case "exit":
+                        loop = false;
+                        generate = false;
+                        break;
+                    default:
+                        generate = true;
+                        break;
                 }
             }
         }

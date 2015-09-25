@@ -38,7 +38,7 @@ namespace Shared.Models
             {
                 str += string.Format("{0}", star);
             }
-            return str + "\n";
+            return str;
         }
 
         public static StarSystem Generate(Dice die)

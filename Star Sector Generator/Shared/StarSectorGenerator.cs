@@ -16,9 +16,9 @@ namespace Shared
             WidthHeight = widthHeight;
         }
 
-        public List<List<StarSystem>> Generate()
+        public StarSector Generate()
         {
-            List<List<StarSystem>> sector = new List<List<StarSystem>>(WidthHeight.X);
+            StarSector sector = new StarSector();
             Die = new Dice();
 
             for (int x = 0; x < WidthHeight.X; x++)
@@ -30,23 +30,9 @@ namespace Shared
                     starSystem.Coordinate = new HexCoordinate(x, y);
                     row.Add(starSystem);
                 }
-                sector.Add(row);
+                sector.Sector.Add(row);
             }
             return sector;
-        }
-
-        public static bool Save(UnitSettings settings)
-        {
-            Debug.WriteLine("Saving UnitSettings");
-            try
-            {
-                var writer = new System.Xml.Serialization.XmlSerializer(typeof(UnitSettings));
-                var wfile = new StreamWriter("UnitStatistics.xml");
-                writer.Serialize(wfile, settings);
-                wfile.Close();
-            }
-            catch (Exception) { return false; }
-            return true;
         }
     }
 }

@@ -28,6 +28,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Models\Enums\TerraformationTier.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\SentientSpecies.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\Star.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\StarSector.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\StarSystem.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)StarSectorGenerator.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Writer.cs" />
